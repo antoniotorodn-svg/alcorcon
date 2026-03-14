@@ -18,13 +18,13 @@ const barriosDestacados = barriosData.slice(0, 3);
 const schema = {
   "@context": "https://schema.org",
   "@type": "Service",
-  "name": "Salud digestiva - Nutricionista Alcorcón",
+  "name": "Salud digestiva - Nutricionista Fuenlabrada",
   "description": servicio.description,
   "provider": {
     "@type": "Dietitian",
-    "name": "Paula Lenza & Arancha Fontán"
+    "name": "Adrián, Soraya & Cristina"
   },
-  "areaServed": "Alcorcón",
+  "areaServed": "Fuenlabrada",
   "priceRange": "50€ - 140€"
 };
 ---
@@ -44,9 +44,9 @@ const schema = {
   ]} />
 
   <Hero
-    title={`${servicio.title} en Alcorcón`}
+    title={`${servicio.title} en Fuenlabrada`}
     description={servicio.description}
-    location="Alcorcón"
+    location="Fuenlabrada"
     showVideo={true}
   />
 
@@ -109,9 +109,9 @@ const schema = {
 
   <section class="section">
     <div class="container">
-      <h2 class="text-center" style="margin-bottom: var(--spacing-md);">Zonas de Alcorcón donde atiendo</h2>
+      <h2 class="text-center" style="margin-bottom: var(--spacing-md);">Zonas de Fuenlabrada donde atiendo</h2>
       <p class="text-center" style="color: var(--color-text-secondary); margin-bottom: var(--spacing-xl); max-width: 600px; margin-left: auto; margin-right: auto;">
-        Consulta presencial en C/ Pablo Picasso 3, accesible desde todo Alcorcón.
+        Consulta presencial en C/ Venezuela 4, accesible desde todo Fuenlabrada.
       </p>
       <div class="barrios-grid">
         {barriosDestacados.map(barrio => (
