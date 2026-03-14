@@ -1,82 +1,82 @@
 ---
-title: "Hinchazón abdominal: causas, soluciones y cuándo consultar"
-description: "¿Sufres hinchazón abdominal? Descubre las causas más comunes y las soluciones nutricionales. Consulta con tu nutricionista en Leganés."
+title: "¿Por qué se hincha tu abdomen? Causas, remedios y cuándo pedir ayuda"
+description: "Conoce las razones más habituales de la hinchazón abdominal y las estrategias nutricionales para combatirla. Tu nutricionista en Alcorcón te orienta."
 date: "2025-10-20"
 tags: ["Salud digestiva"]
 ---
 
-Si alguna vez has sentido que tu abdomen se infla como un globo después de comer, no estás solo/a. La **hinchazón abdominal** es uno de los motivos de consulta más frecuentes en nuestra práctica como nutricionistas, y aunque casi siempre tiene una causa identificable, muchas personas conviven con ella durante años sin buscar ayuda profesional.
+Esa sensación de que el abdomen se tensa y se expande después de comer es más habitual de lo que parece. La **hinchazón abdominal** figura entre las quejas más repetidas en nuestra práctica diaria como nutricionistas, y aunque en la gran mayoría de los casos tiene una explicación identificable, muchas personas la soportan durante años sin plantearse buscar una solución profesional.
 
-En este artículo te explicamos las causas más habituales de la hinchazón, qué puedes hacer desde la alimentación y cuándo es momento de consultar con un especialista.
+Vamos a repasar las causas más frecuentes, las medidas nutricionales que pueden marcar la diferencia y los momentos en los que conviene consultar sin demora.
 
-## ¿Qué es exactamente la hinchazón abdominal?
+## Hinchazón abdominal: qué es exactamente
 
-La hinchazón abdominal es una **sensación de plenitud, presión o distensión** en la zona del abdomen. Puede ir acompañada de gases, dolor, ruidos intestinales e incluso cambios en el tránsito (estreñimiento o diarrea). No es una enfermedad en sí misma, sino un **síntoma** que puede tener orígenes muy diversos.
+Se trata de una **sensación de tensión, pesadez o distensión** localizada en la zona abdominal. Con frecuencia aparece acompañada de gases, molestias, ruidos intestinales y alteraciones del ritmo deposicional (estreñimiento o diarrea). La hinchazón no es una enfermedad en sí misma, sino un **síntoma** que puede responder a causas muy variadas.
 
-> Es importante distinguir entre hinchazón ocasional (después de una comida copiosa, por ejemplo) e hinchazón crónica o recurrente, que aparece con frecuencia y afecta a tu calidad de vida.
+> Conviene distinguir entre una hinchazón puntual — después de un exceso festivo, por ejemplo — y una hinchazón recurrente que se repite con frecuencia e interfiere en tu calidad de vida.
 
-## Las causas más comunes de la hinchazón abdominal
+## Las razones más habituales de la distensión abdominal
 
-### 1. Comer demasiado rápido
+### 1. Velocidad excesiva al comer
 
-Cuando comes deprisa, tragas más aire del necesario (aerofagia) y no masticas correctamente los alimentos. Esto dificulta la digestión y genera gases en el estómago y el intestino.
+Comer deprisa implica tragar más aire del necesario (aerofagia) y masticar de forma insuficiente. Ambas circunstancias dificultan la digestión y provocan acumulación de gas en estómago e intestino.
 
-### 2. Intolerancias alimentarias
+### 2. Intolerancias a determinados alimentos
 
-Las [intolerancias alimentarias](/blog/intolerancias-alimentarias) son una de las causas más frecuentes de hinchazón crónica. La **intolerancia a la lactosa, a la fructosa o al sorbitol** pueden provocar que ciertos azúcares lleguen al intestino grueso sin digerirse, donde las bacterias los fermentan y producen gas.
+Las [intolerancias alimentarias](/blog/intolerancias-alimentarias) constituyen una de las causas más comunes de hinchazón persistente. La **intolerancia a la lactosa, a la fructosa o al sorbitol** hace que ciertos azúcares lleguen intactos al colon, donde las bacterias los fermentan generando gas.
 
-### 3. Exceso de fibra o fibra mal tolerada
+### 3. Cambios bruscos en la ingesta de fibra
 
-La fibra es esencial para la salud digestiva, pero un **aumento brusco** en su consumo o un tipo de fibra que tu intestino no tolera bien puede generar hinchazón y malestar. No toda la fibra es igual, y no todos los intestinos responden de la misma manera.
+La fibra es indispensable para la salud intestinal, pero un **incremento repentino** o un tipo de fibra que tu flora intestinal no gestiona bien puede desencadenar hinchazón y malestar. No todas las fibras son iguales ni todos los intestinos reaccionan de la misma forma.
 
-### 4. Disbiosis intestinal
+### 4. Alteración de la microbiota (disbiosis)
 
-Cuando el equilibrio de tu microbiota se altera (por antibióticos, estrés, mala alimentación o infecciones), las bacterias pueden producir más gas del habitual. La disbiosis es una causa frecuente y muchas veces ignorada.
+Cuando la comunidad bacteriana intestinal pierde su equilibrio — por antibióticos, estrés crónico, dieta pobre o infecciones — la producción de gas puede dispararse. La disbiosis es un factor frecuente y muchas veces ignorado.
 
-### 5. SIBO (sobrecrecimiento bacteriano)
+### 5. Sobrecrecimiento bacteriano intestinal (SIBO)
 
-El **SIBO** se produce cuando hay un exceso de bacterias en el intestino delgado, donde normalmente no deberían estar en esas cantidades. Esto provoca una fermentación excesiva de los alimentos, generando hinchazón, gases y otros síntomas digestivos.
+El **SIBO** ocurre cuando proliferan bacterias en el intestino delgado en cantidades anormalmente altas. Esto desencadena una fermentación prematura de los alimentos, con la consiguiente hinchazón, gases y otros síntomas digestivos.
 
 ### 6. Síndrome del intestino irritable (SII)
 
-El SII es un trastorno funcional digestivo que afecta a un porcentaje significativo de la población. La hinchazón es uno de sus síntomas principales, junto con dolor abdominal y alteraciones del tránsito. La [dieta baja en FODMAP](/blog/dieta-fodmap-guia) puede ser una herramienta clave en su manejo.
+El SII es un trastorno funcional que afecta a un porcentaje considerable de la población. La hinchazón es uno de sus rasgos más característicos, junto con el dolor abdominal y las alteraciones del tránsito. La [dieta baja en FODMAP](/blog/dieta-fodmap-guia) puede ser una herramienta determinante en su control.
 
-## Soluciones nutricionales para la hinchazón
+## Estrategias nutricionales contra la hinchazón
 
-La buena noticia es que, en la mayoría de los casos, la hinchazón abdominal **mejora significativamente con cambios en la alimentación y los hábitos**. Estas son algunas estrategias que aplicamos con nuestros pacientes:
+La buena noticia es que, en la mayoría de los escenarios, la hinchazón abdominal **responde favorablemente a modificaciones en la alimentación y en los hábitos de mesa**. Estas son algunas de las medidas que aplicamos con nuestros pacientes:
 
-- **Come despacio y mastica bien.** Dedica al menos 20 minutos a cada comida principal. La digestión empieza en la boca.
-- **Identifica los alimentos que te sientan mal.** Un diario alimentario puede ayudarte a detectar patrones. No elimines alimentos por tu cuenta sin orientación profesional.
-- **Introduce la fibra de forma progresiva.** Si quieres aumentar tu consumo de verduras, legumbres o cereales integrales, hazlo poco a poco.
-- **Cuida tu microbiota.** Incluye alimentos fermentados (yogur, kéfir, chucrut) y variedad de vegetales para alimentar a tus bacterias beneficiosas.
-- **Gestiona el estrés.** El eje intestino-cerebro es real: la ansiedad y el estrés crónico empeoran los síntomas digestivos.
-- **Evita las bebidas con gas y los edulcorantes tipo poliol** (sorbitol, manitol, xilitol), especialmente si eres sensible.
+- **Dedica tiempo a cada comida y mastica a conciencia.** Un mínimo de 20 minutos por comida principal marca una diferencia real. Recuerda que la digestión arranca en la boca.
+- **Detecta los alimentos que te generan molestias.** Llevar un diario alimentario-sintomático facilita la identificación de patrones. No suprimas alimentos por tu cuenta sin la orientación de un profesional.
+- **Sube la fibra de forma gradual.** Si quieres incorporar más verduras, legumbres o cereales integrales, hazlo poco a poco para dar tiempo a tu microbiota a adaptarse.
+- **Apoya a tu flora intestinal.** Incorpora alimentos fermentados (yogur natural, kéfir, chucrut) y una buena variedad de vegetales para nutrir a las bacterias beneficiosas.
+- **Controla el estrés.** La conexión entre intestino y cerebro está bien documentada: la ansiedad y la tensión emocional agravan los síntomas digestivos de forma directa.
+- **Limita las bebidas carbonatadas y los edulcorantes tipo poliol** (sorbitol, manitol, xilitol), especialmente si presentas sensibilidad digestiva.
 
-> Recuerda: lo que funciona para una persona puede no funcionar para otra. La clave está en la **personalización**.
+> Lo que alivia a una persona puede no funcionar para otra. La clave reside en la **personalización del abordaje**.
 
-## ¿Cuándo deberías consultar con un profesional?
+## Señales de alarma: cuándo consultar sin demora
 
-Hay situaciones en las que la hinchazón no debería ignorarse. **Consulta con un especialista** si:
+Existen circunstancias en las que la hinchazón no debería pasarse por alto. **Busca valoración profesional** si:
 
-1. La hinchazón es **diaria o casi diaria** y no mejora con cambios básicos.
-2. Va acompañada de **pérdida de peso involuntaria**, sangre en heces o dolor intenso.
-3. Has notado que cada vez **toleras menos alimentos**.
-4. Llevas tiempo con **estreñimiento o diarrea crónica**.
-5. Has probado eliminar alimentos por tu cuenta sin resultado.
+1. La hinchazón es **diaria o prácticamente diaria** y no responde a cambios básicos.
+2. Se acompaña de **pérdida de peso no buscada**, presencia de sangre en heces o dolor intenso.
+3. Notas que **cada vez toleras menos alimentos**.
+4. Llevas tiempo con **estreñimiento crónico o diarrea persistente**.
+5. Has intentado eliminar alimentos por tu cuenta sin obtener mejoría.
 
-En estos casos, es fundamental hacer una **valoración nutricional completa** para identificar la causa y establecer un plan personalizado. En nuestra consulta de [salud digestiva](/salud-digestiva) realizamos un abordaje integral que incluye historia clínica detallada, análisis de tu alimentación actual y, si es necesario, coordinación con tu médico para pruebas diagnósticas complementarias.
+En estos casos, resulta imprescindible realizar una **evaluación nutricional completa** para localizar la causa y trazar un plan a medida. En nuestra consulta de [salud digestiva](/salud-digestiva) llevamos a cabo un abordaje integral que comprende historia clínica detallada, análisis de tu alimentación actual y, cuando es necesario, coordinación con tu médico para solicitar pruebas diagnósticas complementarias.
 
-## El papel del nutricionista en los problemas digestivos
+## Lo que un nutricionista especializado puede hacer por ti
 
-Un nutricionista especializado en [nutrición clínica](/nutricion-clinica) puede ayudarte a:
+Un dietista-nutricionista con experiencia en [nutrición clínica](/nutricion-clinica) puede ayudarte a:
 
-- **Identificar la causa** de tu hinchazón mediante un análisis exhaustivo de tu dieta y síntomas.
-- **Diseñar un plan alimentario** adaptado a tu situación, sin restricciones innecesarias.
-- **Guiarte en dietas terapéuticas** como la dieta baja en FODMAP, dietas de eliminación o protocolos para SIBO.
-- **Asegurar que no tengas carencias nutricionales** mientras trabajamos en mejorar tus síntomas.
-- **Hacer un seguimiento** para ir ajustando la pauta según tu evolución.
+- **Localizar el origen** de tu hinchazón a través de un análisis minucioso de tu dieta y tus síntomas.
+- **Elaborar un plan alimentario** ajustado a tu situación, evitando restricciones innecesarias.
+- **Guiarte en protocolos terapéuticos** como la dieta baja en FODMAP, dietas de exclusión o abordajes específicos para SIBO.
+- **Prevenir carencias nutricionales** mientras trabajamos en la mejora de tus síntomas.
+- **Realizar un seguimiento continuo** para ir adaptando las pautas conforme avanzas.
 
-La hinchazón abdominal no es algo con lo que tengas que convivir. Con el enfoque adecuado, la gran mayoría de personas experimentan una mejora notable en pocas semanas.
+La hinchazón abdominal no tiene por qué formar parte de tu día a día. Con el enfoque correcto, la inmensa mayoría de las personas experimentan una mejoría significativa en pocas semanas.
 
 ---
 
@@ -84,3 +84,4 @@ La hinchazón abdominal no es algo con lo que tengas que convivir. Con el enfoqu
 
 - [Intolerancias alimentarias: cómo identificarlas y qué hacer](/blog/intolerancias-alimentarias)
 - [Dieta FODMAP: qué es, cuándo puede ayudarte y cómo seguirla](/blog/dieta-fodmap-guia)
+- [Alimentación antiinflamatoria: qué es y cómo empezar hoy](/blog/alimentacion-antiinflamatoria)

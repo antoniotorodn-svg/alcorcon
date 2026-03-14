@@ -1,7 +1,7 @@
 import type { APIRoute } from 'astro';
 import { getCollection } from 'astro:content';
 
-const siteUrl = 'https://nutricionistaenleganes.com';
+const siteUrl = 'https://nutricionista.io/nutricionista-en-alcorcon';
 
 const staticPages = [
   { url: '/', priority: '1.0', changefreq: 'weekly' },
@@ -11,13 +11,13 @@ const staticPages = [
   { url: '/salud-hormonal', priority: '0.9', changefreq: 'monthly' },
   { url: '/nutricion-clinica', priority: '0.9', changefreq: 'monthly' },
   { url: '/nutricionista-online', priority: '0.9', changefreq: 'monthly' },
-  { url: '/nutricionista-leganes-centro', priority: '0.8', changefreq: 'monthly' },
-  { url: '/nutricionista-zarzaquemada-leganes', priority: '0.8', changefreq: 'monthly' },
-  { url: '/nutricionista-la-fortuna-leganes', priority: '0.8', changefreq: 'monthly' },
-  { url: '/nutricionista-san-nicasio-leganes', priority: '0.8', changefreq: 'monthly' },
-  { url: '/nutricionista-el-carrascal-leganes', priority: '0.8', changefreq: 'monthly' },
-  { url: '/nutricionista-arroyo-culebro-leganes', priority: '0.8', changefreq: 'monthly' },
-  { url: '/nutricionista-vereda-estudiantes-leganes', priority: '0.8', changefreq: 'monthly' },
+  { url: '/nutricionista-alcorcon-centro', priority: '0.8', changefreq: 'monthly' },
+  { url: '/nutricionista-san-jose-valderas-alcorcon', priority: '0.8', changefreq: 'monthly' },
+  { url: '/nutricionista-parque-lisboa-alcorcon', priority: '0.8', changefreq: 'monthly' },
+  { url: '/nutricionista-campodon-alcorcon', priority: '0.8', changefreq: 'monthly' },
+  { url: '/nutricionista-prado-santo-domingo-alcorcon', priority: '0.8', changefreq: 'monthly' },
+  { url: '/nutricionista-las-retamas-alcorcon', priority: '0.8', changefreq: 'monthly' },
+  { url: '/nutricionista-parque-oeste-alcorcon', priority: '0.8', changefreq: 'monthly' },
   { url: '/blog', priority: '0.7', changefreq: 'weekly' },
   { url: '/aviso-legal', priority: '0.3', changefreq: 'yearly' },
   { url: '/politica-de-privacidad', priority: '0.3', changefreq: 'yearly' },
