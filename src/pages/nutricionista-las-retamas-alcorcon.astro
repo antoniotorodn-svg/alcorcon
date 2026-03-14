@@ -11,20 +11,20 @@ import CalendlySection from '../components/CalendlySection.astro';
 import serviciosData from '../data/servicios.json';
 import barriosData from '../data/barrios.json';
 
-const barrio = barriosData.find(b => b.slug === 'nutricionista-parque-miraflores-fuenlabrada')!;
+const barrio = barriosData.find(b => b.slug === 'nutricionista-las-retamas-alcorcon')!;
 const otrosBarrios = barriosData.filter(b => b.id !== barrio.id).slice(0, 6);
 
 const barrioSchema = {
   "@context": "https://schema.org",
   "@type": ["Dietitian", "LocalBusiness"],
-  "name": `Nutricionista en ${barrio.name} Fuenlabrada — nutricionista.io`,
-  "telephone": "+34623998939",
+  "name": `Nutricionista en ${barrio.name} Alcorcón — nutricionista.io`,
+  "telephone": "+34611859898",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "Calle Venezuela, 4",
-    "addressLocality": "Fuenlabrada",
+    "streetAddress": "Calle Pablo Picasso, 3",
+    "addressLocality": "Alcorcón",
     "addressRegion": "Madrid",
-    "postalCode": "28943",
+    "postalCode": "28921",
     "addressCountry": "ES"
   }
 };
@@ -64,7 +64,7 @@ const barrioSchema = {
     <div class="container">
       <h2 class="text-center" style="margin-bottom: var(--spacing-md);">Servicios de nutrición en {barrio.name}</h2>
       <p class="text-center" style="color: var(--color-text-secondary); margin-bottom: var(--spacing-xl); max-width: 700px; margin-left: auto; margin-right: auto;">
-        Consulta presencial en la Calle Venezuela 4, a pocos minutos de tu barrio.
+        Consulta presencial en la Calle Pablo Picasso 3, a pocos minutos de tu barrio.
       </p>
 
       <div class="grid grid--3">
@@ -81,7 +81,7 @@ const barrioSchema = {
 
   <section class="section section--alt">
     <div class="container">
-      <h2 class="text-center" style="margin-bottom: var(--spacing-md);">Otras zonas de Fuenlabrada</h2>
+      <h2 class="text-center" style="margin-bottom: var(--spacing-md);">Otras zonas de Alcorcón</h2>
       <div class="barrios-grid">
         {otrosBarrios.map(b => <BarrioTag name={b.name} href={`/${b.slug}`} />)}
       </div>
@@ -92,7 +92,7 @@ const barrioSchema = {
 
   <CTABox
     title={`¿Vives en ${barrio.name}?`}
-    description="Reserva tu primera consulta en la C/ Venezuela 4."
+    description="Reserva tu primera consulta en la C/ Pablo Picasso 3."
     ctaText="Reservar cita"
     ctaHref="#reservar"
     variant="trust"

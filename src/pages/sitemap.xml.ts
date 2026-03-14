@@ -1,7 +1,7 @@
 import type { APIRoute } from 'astro';
 import { getCollection } from 'astro:content';
 
-const siteUrl = 'https://nutricionista.io/nutricionista-en-fuenlabrada';
+const siteUrl = 'https://nutricionista.io/nutricionista-en-alcorcon';
 
 const staticPages = [
   { url: '/', priority: '1.0', changefreq: 'weekly' },
@@ -11,13 +11,13 @@ const staticPages = [
   { url: '/salud-hormonal', priority: '0.9', changefreq: 'monthly' },
   { url: '/nutricion-clinica', priority: '0.9', changefreq: 'monthly' },
   { url: '/nutricionista-online', priority: '0.9', changefreq: 'monthly' },
-  { url: '/nutricionista-fuenlabrada-centro', priority: '0.8', changefreq: 'monthly' },
-  { url: '/nutricionista-el-naranjo-fuenlabrada', priority: '0.8', changefreq: 'monthly' },
-  { url: '/nutricionista-loranca-fuenlabrada', priority: '0.8', changefreq: 'monthly' },
-  { url: '/nutricionista-la-serna-fuenlabrada', priority: '0.8', changefreq: 'monthly' },
-  { url: '/nutricionista-vivero-hospital-fuenlabrada', priority: '0.8', changefreq: 'monthly' },
-  { url: '/nutricionista-el-arroyo-fuenlabrada', priority: '0.8', changefreq: 'monthly' },
-  { url: '/nutricionista-parque-miraflores-fuenlabrada', priority: '0.8', changefreq: 'monthly' },
+  { url: '/nutricionista-alcorcon-centro', priority: '0.8', changefreq: 'monthly' },
+  { url: '/nutricionista-san-jose-valderas-alcorcon', priority: '0.8', changefreq: 'monthly' },
+  { url: '/nutricionista-parque-lisboa-alcorcon', priority: '0.8', changefreq: 'monthly' },
+  { url: '/nutricionista-campodon-alcorcon', priority: '0.8', changefreq: 'monthly' },
+  { url: '/nutricionista-prado-santo-domingo-alcorcon', priority: '0.8', changefreq: 'monthly' },
+  { url: '/nutricionista-las-retamas-alcorcon', priority: '0.8', changefreq: 'monthly' },
+  { url: '/nutricionista-parque-oeste-alcorcon', priority: '0.8', changefreq: 'monthly' },
   { url: '/blog', priority: '0.7', changefreq: 'weekly' },
   { url: '/aviso-legal', priority: '0.3', changefreq: 'yearly' },
   { url: '/politica-de-privacidad', priority: '0.3', changefreq: 'yearly' },
