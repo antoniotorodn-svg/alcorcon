@@ -1,88 +1,88 @@
 ---
-title: "Tu primera consulta con el nutricionista: qué esperar y cómo prepararte"
-description: "Todo lo que necesitas saber antes de tu primera visita al nutricionista. Qué llevar, qué preguntas te harán y cómo es el proceso."
+title: "Tu primera cita con el nutricionista: cómo prepararte y qué vas a encontrar"
+description: "Todo lo que necesitas saber antes de tu primera visita al nutricionista en Alcorcón. Documentación recomendada, fases de la sesión y qué esperar del proceso completo."
 date: "2025-11-28"
-tags: ["Nutrición general", "Leganés"]
+tags: ["Nutrición general", "Alcorcón"]
 ---
 
-Dar el paso de pedir cita con un nutricionista puede generar cierta incertidumbre, sobre todo si nunca has ido a uno. En este artículo te contamos cómo es el proceso de una primera consulta de nutrición, qué deberías llevar y qué puedes esperar en cada fase.
+Dar el paso de acudir a un nutricionista por primera vez genera dudas en prácticamente todas las personas. Es completamente comprensible, sobre todo si nunca antes has estado en una consulta de este tipo. En este artículo repasamos de forma detallada cómo se estructura la primera sesión, qué información conviene que prepares y qué puedes esperar en cada momento del proceso.
 
-## Antes de la consulta: cómo prepararte
+## Antes de la cita: cómo sacarle el máximo partido
 
-La preparación previa marca una diferencia enorme en la calidad de la primera sesión. Cuanta más información traiga el paciente, más precisa será la valoración inicial y antes podremos empezar a trabajar.
+Acudir a la consulta con cierta preparación previa marca una diferencia importante. Cuanta más información relevante aportes desde el inicio, más preciso será el diagnóstico nutricional y antes podremos establecer una hoja de ruta clara.
 
-### Lo que te recomendamos llevar
+### Qué te recomendamos traer
 
-- **Analítica de sangre reciente** (si la tienes). Lo ideal es una de los últimos 3-6 meses. Si no tienes una reciente, no te preocupes: te indicaremos qué parámetros pedir a tu médico.
-- **Informes médicos relevantes**: diagnósticos, tratamientos farmacológicos actuales, resultados de pruebas específicas (intolerancias, alergias, endoscopias, ecografías...).
-- **Lista de medicamentos y suplementos** que tomas actualmente, incluyendo dosis.
-- **Un registro de lo que comes habitualmente**. No es necesario que sea perfecto: con anotar 3-4 días lo que comes y bebes es suficiente para que podamos hacernos una idea realista de tus hábitos.
-- **Tus dudas y objetivos**. Apúntalos para que no se te olviden. Es tu momento para preguntar todo lo que necesites.
+- **Analítica de sangre reciente** (idealmente de los últimos 3 a 6 meses). Si no dispones de una, te indicaremos qué parámetros conviene solicitar a tu médico de cabecera.
+- **Informes médicos relevantes**: diagnósticos previos, tratamientos activos, resultados de pruebas como tests de intolerancias, endoscopias o ecografías.
+- **Listado de fármacos y suplementos** que estés consumiendo actualmente, incluyendo las dosis.
+- **Diario de alimentación de 3 a 4 días**. No tiene que ser exhaustivo ni perfecto: basta con anotar lo que comes y bebes a lo largo de unos días para que nos hagamos una imagen realista de tus hábitos.
+- **Tus dudas y expectativas por escrito**. Apuntarlas te ayudará a no olvidar nada importante. La consulta es tu espacio para preguntar sin límites.
 
-> No te preocupes si no tienes todos estos documentos. La primera consulta sirve también para identificar qué información necesitamos y cómo conseguirla.
+> Si no cuentas con toda esta documentación, no es motivo de preocupación. Una parte de la primera consulta se dedica precisamente a determinar qué datos necesitamos y cómo conseguirlos.
 
-## Qué ocurre durante la primera consulta
+## Las fases de la primera sesión
 
-La primera visita es la más larga y la más importante. Suele durar entre 60 y 75 minutos, y tiene varias fases bien diferenciadas.
+La primera visita es la más larga y la que tiene mayor peso en todo el proceso. Habitualmente se extiende entre 60 y 75 minutos y se organiza en etapas bien definidas.
 
-### 1. Entrevista personal e historia clínica
+### Fase 1: Entrevista inicial e historia clínica
 
-Empezamos por conocerte. Necesitamos entender no solo qué comes, sino **quién eres, cómo vives y qué te ha traído hasta aquí**. Las preguntas típicas incluyen:
+El primer paso es conocerte. Necesitamos entender no solo qué comes, sino **quién eres, cómo vives y qué motivo te ha traído hasta aquí**. Durante esta fase conversaremos sobre:
 
-- Tu motivo de consulta principal
-- Antecedentes médicos personales y familiares
-- Tratamientos farmacológicos actuales
-- Historial de dietas previas y su resultado
-- Hábitos de sueño, estrés y actividad física
-- Alergias e intolerancias conocidas
-- Tu relación con la comida (esto es más importante de lo que parece)
+- La razón principal de tu visita
+- Tu historial de salud personal y antecedentes familiares
+- Medicación que tomas en la actualidad
+- Experiencias previas con dietas y cuáles fueron los resultados
+- Calidad de tu descanso, niveles de estrés y práctica de ejercicio físico
+- Alergias e intolerancias confirmadas
+- Cómo describes tu relación emocional con la comida (un aspecto que resulta más relevante de lo que muchos imaginan)
 
-**No vamos a juzgarte por tus hábitos actuales.** Nuestro trabajo es ayudarte a mejorar desde donde estás, no señalar lo que haces mal. Todos tenemos margen de mejora, y el punto de partida es simplemente eso: un punto de partida.
+**No estamos aquí para juzgar ni para señalar fallos.** Nuestro objetivo es ayudarte a avanzar desde el punto en el que te encuentras, sea el que sea. Todas las personas tienen margen de mejora, y tu punto de partida actual es simplemente eso: el lugar desde el que empezamos a construir.
 
-### 2. Análisis de composición corporal
+### Fase 2: Estudio de la composición corporal
 
-El peso en la báscula es solo un número que, por sí solo, dice muy poco. En consulta realizamos un **análisis de composición corporal** que nos da información mucho más valiosa:
+El número que muestra la báscula, por sí solo, dice muy poco. En consulta realizamos un **análisis de composición corporal** que aporta información mucho más valiosa:
 
-- **Porcentaje de grasa corporal** y distribución
+- **Porcentaje de grasa corporal** y cómo se distribuye por zonas
 - **Masa muscular** total y por segmentos
-- **Agua corporal** y estado de hidratación
-- **Grasa visceral**, que es la que realmente importa para la salud metabólica
-- **Metabolismo basal estimado**
+- **Estado de hidratación** del organismo
+- **Grasa visceral**, el tipo con mayor repercusión sobre la salud metabólica
+- **Estimación del gasto metabólico basal**
 
-Estos datos son fundamentales para diseñar un plan nutricional ajustado a tu realidad y para poder medir la evolución de forma objetiva en las siguientes consultas. Porque no se trata solo de perder kilos: se trata de **mejorar tu composición corporal**.
+Estos datos son esenciales para diseñar un plan nutricional alineado con tu realidad fisiológica y para disponer de referencias objetivas con las que medir tu evolución en las revisiones posteriores. El objetivo no se reduce a modificar un número en la báscula: se trata de **transformar tu composición corporal y mejorar tu estado de salud**.
 
-### 3. Valoración de hábitos y plan de trabajo
+### Fase 3: Valoración de hábitos y diseño de la estrategia
 
-Analizamos en detalle qué comes, cuándo, cómo cocinas y cómo organizas tus comidas. Esto nos permite identificar déficits nutricionales, patrones problemáticos y oportunidades de mejora realistas.
+Analizamos en profundidad qué comes, en qué horarios, cómo cocinas y cómo organizas tu alimentación diaria. Este análisis nos permite detectar carencias nutricionales, identificar patrones poco favorables y encontrar oportunidades de cambio que sean realistas y sostenibles.
 
-Al final de la consulta, te explicamos nuestra valoración inicial, los objetivos que vamos a trabajar y las primeras pautas que puedes aplicar desde ese mismo día. Dependiendo de tu motivo de consulta, el enfoque será diferente: no es lo mismo un plan de [pérdida de peso](/perdida-de-peso) que un abordaje de [salud digestiva](/salud-digestiva) o un plan de [nutrición deportiva](/nutricion-deportiva).
+Al cierre de la sesión, compartimos contigo nuestra valoración inicial, los objetivos que trabajaremos y las primeras recomendaciones que puedes poner en práctica de inmediato. El enfoque varía según tu motivo de consulta: no es lo mismo un plan orientado a [pérdida de peso](/perdida-de-peso) que un abordaje de [salud digestiva](/salud-digestiva) o un programa de [nutrición deportiva](/nutricion-deportiva).
 
-## Después de la primera consulta
+## Después de la primera visita: qué ocurre
 
-### El plan nutricional personalizado
+### Recepción de tu plan nutricional personalizado
 
-En los días siguientes a la consulta, recibirás tu **plan nutricional completo**: estructura de comidas adaptada a tus horarios, opciones de alimentos organizadas de forma práctica, recetas ajustadas a tus gustos y cantidades orientativas cuando sea necesario. No es una dieta genérica: es un documento diseñado específicamente para ti.
+En los días siguientes a la consulta recibirás tu **plan nutricional completo**: una estructura de comidas adaptada a tus horarios, opciones de alimentos organizadas de forma práctica, recetas ajustadas a tus preferencias y orientaciones sobre cantidades cuando sea necesario. No se trata de una dieta genérica descargada de internet: es un documento elaborado exclusivamente para ti.
 
-### Las consultas de seguimiento
+### Las revisiones: donde se materializa el cambio
 
-El seguimiento es donde ocurre la verdadera transformación. Las consultas de revisión suelen ser cada **2 a 4 semanas** y duran entre 30 y 45 minutos. Evaluamos la implementación del plan, repasamos dificultades, medimos de nuevo la composición corporal y ajustamos según tu evolución.
+Las consultas de seguimiento constituyen la pieza donde la transformación realmente toma forma. Se programan cada **2 a 4 semanas** y su duración oscila entre 30 y 45 minutos. En ellas evaluamos la implementación del plan, abordamos las dificultades que hayan surgido, repetimos la medición de composición corporal y ajustamos las pautas en función de cómo estás respondiendo.
 
-**El proceso no es lineal.** Habrá semanas mejores y semanas peores, y eso es completamente normal. Lo importante es la tendencia general y el aprendizaje acumulado.
+**La evolución rara vez sigue una línea recta.** Habrá semanas de avances evidentes y otras con menor progreso, y eso es absolutamente esperable. Lo determinante es la tendencia general y los conocimientos que vas incorporando sobre tu propia alimentación.
 
-## Consulta presencial u online: tú decides
+## Formato presencial u online: la decisión es tuya
 
-En nuestra consulta de Leganés, atendemos de forma presencial en la Clínica Podoimas. Pero si prefieres la opción a distancia o no puedes desplazarte, el servicio de [nutricionista online](/nutricionista-online) funciona exactamente igual en cuanto a calidad y seguimiento.
+En nuestra consulta de Alcorcón ofrecemos atención presencial. Pero si el formato a distancia te resulta más cómodo o desplazarte no es viable para ti, el servicio de [nutricionista online](/nutricionista-online) garantiza el mismo nivel de calidad y seguimiento.
 
-Si todavía estás decidiendo a qué profesional acudir, te recomendamos leer nuestra guía sobre [cómo elegir el mejor nutricionista en Leganés](/blog/como-elegir-nutricionista-leganes) para que puedas tomar una decisión informada.
+Si todavía estás valorando a qué profesional acudir, te sugerimos consultar nuestra guía sobre [cómo elegir el mejor nutricionista en Alcorcón](/blog/como-elegir-nutricionista-leganes) para tomar una decisión fundamentada.
 
-## Da el primer paso con confianza
+## Atrévete a dar el primer paso
 
-No necesitas tener todo claro ni haber cambiado nada antes de venir. **Vienes precisamente para que te ayudemos a dar ese cambio.** En nuestra [consulta de nutrición](/) te espera un espacio sin juicios, con escucha activa y con toda la profesionalidad que tu salud merece.
+No necesitas tener todo bajo control ni haber iniciado cambios antes de venir. **Vienes precisamente para que te ayudemos a poner en marcha esa transformación.** En nuestra [consulta de nutrición](/) encontrarás un entorno libre de juicios, con escucha activa y con la rigurosidad profesional que tu salud merece.
 
 ---
 
 ## Artículos relacionados
 
-- [Cómo elegir el mejor nutricionista en Leganés](/blog/como-elegir-nutricionista-leganes)
-- [¿Cuándo acudir a un nutricionista? 7 señales que no debes ignorar](/blog/cuando-acudir-nutricionista)
+- [Cómo elegir el mejor nutricionista en Alcorcón](/blog/como-elegir-nutricionista-leganes)
+- [7 señales de que necesitas visitar a un nutricionista](/blog/cuando-acudir-nutricionista)
 - [10 mitos sobre la pérdida de peso que debes dejar de creer](/blog/mitos-perdida-peso)

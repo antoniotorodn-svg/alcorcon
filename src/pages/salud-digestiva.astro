@@ -18,13 +18,13 @@ const barriosDestacados = barriosData.slice(0, 3);
 const schema = {
   "@context": "https://schema.org",
   "@type": "Service",
-  "name": "Salud digestiva - Nutricionista Leganés",
+  "name": "Salud digestiva - Nutricionista Alcorcón",
   "description": servicio.description,
   "provider": {
     "@type": "Dietitian",
-    "name": "Soraya Sánchez & José Luis Todolí"
+    "name": "Paula Lenza & Arancha Fontán"
   },
-  "areaServed": "Leganés",
+  "areaServed": "Alcorcón",
   "priceRange": "50€ - 140€"
 };
 ---
@@ -44,9 +44,9 @@ const schema = {
   ]} />
 
   <Hero
-    title={`${servicio.title} en Leganés`}
+    title={`${servicio.title} en Alcorcón`}
     description={servicio.description}
-    location="Leganés"
+    location="Alcorcón"
     showVideo={true}
   />
 
@@ -109,9 +109,9 @@ const schema = {
 
   <section class="section">
     <div class="container">
-      <h2 class="text-center" style="margin-bottom: var(--spacing-md);">Zonas de Leganés donde atiendo</h2>
+      <h2 class="text-center" style="margin-bottom: var(--spacing-md);">Zonas de Alcorcón donde atiendo</h2>
       <p class="text-center" style="color: var(--color-text-secondary); margin-bottom: var(--spacing-xl); max-width: 600px; margin-left: auto; margin-right: auto;">
-        Consulta presencial en el Clínica Podoimas, accesible desde todo Leganés.
+        Consulta presencial en C/ Pablo Picasso 3, accesible desde todo Alcorcón.
       </p>
       <div class="barrios-grid">
         {barriosDestacados.map(barrio => (

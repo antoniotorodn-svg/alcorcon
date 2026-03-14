@@ -1,15 +1,15 @@
 ---
 interface Props {
-  type: 'soraya' | 'jose' | 'soraya-parejas' | 'jose-parejas';
+  type: 'paula' | 'arancha' | 'paula-parejas' | 'arancha-parejas';
 }
 
 const { type } = Astro.props;
 
 const urls: Record<string, string> = {
-  'soraya': 'https://calendly.com/leganes/primera-consulta?hide_event_type_details=1&hide_gdpr_banner=1',
-  'jose': 'https://calendly.com/joseluistodoli/primera-consulta?hide_event_type_details=1&hide_gdpr_banner=1',
-  'soraya-parejas': 'https://calendly.com/leganes/primera-consulta-leganes-clon?hide_event_type_details=1&hide_gdpr_banner=1',
-  'jose-parejas': 'https://calendly.com/joseluistodoli/primera-consulta-pareja?hide_event_type_details=1&hide_gdpr_banner=1',
+  'paula': 'https://calendly.com/alcorcon/primera-consulta?hide_event_type_details=1&hide_gdpr_banner=1',
+  'arancha': 'https://calendly.com/aranchafontannutricion/primera-consulta?hide_event_type_details=1&hide_gdpr_banner=1',
+  'paula-parejas': 'https://calendly.com/alcorcon/primera-consulta-clon?hide_event_type_details=1&hide_gdpr_banner=1',
+  'arancha-parejas': 'https://calendly.com/aranchafontannutricion/primera-consulta-pareja?hide_event_type_details=1&hide_gdpr_banner=1',
 };
 
 const calendlyUrl = urls[type];

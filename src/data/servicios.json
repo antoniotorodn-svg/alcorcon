@@ -4,45 +4,45 @@
     "slug": "perdida-de-peso",
     "title": "Pérdida de peso",
     "emoji": "⚖️",
-    "shortDesc": "Plan personalizado para perder peso de forma saludable y duradera, sin dietas milagro",
-    "description": "Alcanza tu peso ideal con un plan nutricional 100% personalizado. Sin dietas restrictivas, sin efecto rebote. Aprenderás a comer bien para siempre.",
+    "shortDesc": "Estrategia a medida para alcanzar tu peso objetivo de forma progresiva, sin restricciones extremas",
+    "description": "Consigue un peso saludable con un programa nutricional diseñado para ti. Sin efecto rebote, sin pasar hambre. Aprenderás hábitos que puedas mantener toda la vida.",
     "benefits": [
-      "Plan nutricional personalizado según tus gustos y estilo de vida",
-      "Menús semanales con recetas fáciles y adaptadas",
-      "Seguimiento cada 21 días para ajustar y motivarte",
-      "Educación nutricional para mantener resultados a largo plazo",
-      "Sin pasar hambre, sin prohibiciones extremas"
+      "Programa nutricional adaptado a tus preferencias y ritmo de vida",
+      "Planificación semanal con recetas sencillas y sabrosas",
+      "Revisiones cada 21 días para valorar avances y reajustar",
+      "Formación en hábitos alimentarios para resultados duraderos",
+      "Sin restricciones innecesarias ni alimentos prohibidos"
     ],
     "forWho": [
-      "Personas que han probado dietas sin éxito",
-      "Quien quiere perder peso sin efecto rebote",
-      "Adultos que buscan cambiar hábitos de forma definitiva"
+      "Personas que han fracasado con dietas genéricas",
+      "Quien necesita perder peso sin el temido efecto rebote",
+      "Adultos que quieren transformar su relación con la comida"
     ],
-    "metaTitle": "Pérdida de peso saludable | nutricionistaenleganes.com · Nutricionista Leganés",
-    "metaDescription": "Plan personalizado para perder peso sin dietas milagro. Nutricionista colegiada en Leganés. Primera consulta 50€. Reserva cita."
+    "metaTitle": "Pérdida de peso saludable | nutricionista.io · Nutricionista Alcorcón",
+    "metaDescription": "Programa personalizado para perder peso sin dietas milagro. Nutricionista colegiada en Alcorcón. Primera consulta 50€. Reserva cita."
   },
   {
     "id": "nutricion-deportiva",
     "slug": "nutricion-deportiva",
     "title": "Nutrición deportiva",
     "emoji": "🏃",
-    "shortDesc": "Planes para deportistas: runners, pádel, gimnasio, CrossFit. Rendimiento y recuperación",
-    "description": "Optimiza tu rendimiento deportivo y recuperación con un plan nutricional adaptado a tu entrenamiento. Para runners, ciclistas, gimnasio, pádel, CrossFit y más.",
+    "shortDesc": "Alimentación para rendir más: running, pádel, gimnasio, CrossFit, ciclismo y más",
+    "description": "Saca el máximo partido a tus entrenamientos con una alimentación pensada para tu deporte. Para cualquier disciplina y nivel, desde amateur hasta competición.",
     "benefits": [
-      "Plan nutricional adaptado a tus entrenamientos y objetivos",
-      "Estrategias de nutrición antes, durante y después del ejercicio",
-      "Suplementación deportiva basada en evidencia (solo si es necesaria)",
-      "Composición corporal óptima para tu deporte",
-      "Mejora del rendimiento y recuperación muscular"
+      "Planificación nutricional sincronizada con tu calendario de entrenamientos",
+      "Pautas de alimentación pre, intra y post-ejercicio",
+      "Revisión de suplementación con criterio científico (solo si es útil)",
+      "Ajuste de composición corporal según tu deporte",
+      "Estrategias de recuperación y prevención de lesiones"
     ],
     "forWho": [
-      "Deportistas amateur y federados",
-      "Personas que entrenan en gimnasio (fuerza, hipertrofia, CrossFit)",
-      "Runners, ciclistas, nadadores y triatletas",
-      "Jugadores de pádel, tenis, fútbol"
+      "Deportistas amateur y con licencia federativa",
+      "Personas que entrenan en sala (fuerza, hipertrofia, funcional)",
+      "Runners, ciclistas, triatletas y nadadores",
+      "Jugadores de pádel, tenis, fútbol y baloncesto"
     ],
-    "metaTitle": "Nutrición deportiva | nutricionistaenleganes.com · Nutricionista Leganés",
-    "metaDescription": "Nutrición para deportistas en Leganés: runners, gimnasio, pádel, CrossFit. Mejora rendimiento y recuperación. Reserva tu consulta."
+    "metaTitle": "Nutrición deportiva | nutricionista.io · Nutricionista Alcorcón",
+    "metaDescription": "Nutrición para deportistas en Alcorcón: running, gimnasio, pádel, CrossFit. Mejora rendimiento y recuperación. Reserva tu consulta."
   },
   {
     "id": "salud-digestiva",
@@ -50,23 +50,23 @@
     "title": "Salud digestiva",
     "emoji": "🌿",
     "shortDesc": "Hinchazón, colon irritable, SIBO, FODMAP, reflujo, intolerancias",
-    "description": "Mejora tu salud digestiva con un plan nutricional específico. Tratamiento de colon irritable, SIBO, hinchazón, reflujo, intolerancias y malabsorción.",
+    "description": "Recupera el bienestar digestivo con un abordaje nutricional específico. Protocolo para colon irritable, SIBO, hinchazón persistente, reflujo e intolerancias alimentarias.",
     "benefits": [
-      "Plan FODMAP bajo personalizado (si es tu caso)",
-      "Identificación y manejo de intolerancias alimentarias",
-      "Reducción de hinchazón, gases y malestar digestivo",
-      "Protocolos específicos para SIBO, reflujo, estreñimiento",
-      "Reintroducción progresiva de alimentos"
+      "Dieta baja en FODMAP individualizada (cuando sea indicado)",
+      "Detección y gestión de intolerancias alimentarias",
+      "Alivio de hinchazón, gases y molestias digestivas",
+      "Protocolos para SIBO, reflujo, estreñimiento crónico",
+      "Reintroducción escalonada y segura de alimentos"
     ],
     "forWho": [
-      "Personas con síndrome de intestino irritable (SII)",
-      "Diagnóstico de SIBO o sospecha",
-      "Hinchazón abdominal frecuente",
-      "Intolerancias alimentarias (lactosa, fructosa, etc.)",
-      "Reflujo gastroesofágico, gastritis"
+      "Personas diagnosticadas de síndrome de intestino irritable (SII)",
+      "Sospecha o confirmación de SIBO",
+      "Hinchazón abdominal recurrente",
+      "Intolerancias alimentarias (lactosa, fructosa, sorbitol…)",
+      "Reflujo gastroesofágico o gastritis"
     ],
-    "metaTitle": "Salud digestiva | Nutricionista Leganés · nutricionistaenleganes.com",
-    "metaDescription": "Tratamiento nutricional para colon irritable, SIBO, hinchazón, intolerancias. Nutricionista en Leganés. Reserva consulta."
+    "metaTitle": "Salud digestiva | Nutricionista Alcorcón · nutricionista.io",
+    "metaDescription": "Abordaje nutricional para colon irritable, SIBO, hinchazón, intolerancias. Nutricionista en Alcorcón. Reserva consulta."
   },
   {
     "id": "salud-hormonal",
@@ -74,23 +74,23 @@
     "title": "Salud hormonal femenina",
     "emoji": "🌸",
     "shortDesc": "Menopausia, SOP, embarazo, fertilidad, endometriosis",
-    "description": "Cuida tu salud hormonal con nutrición específica para cada etapa de la mujer. Menopausia, síndrome de ovario poliquístico, embarazo, fertilidad y endometriosis.",
+    "description": "Acompaña cada etapa hormonal de tu vida con la alimentación adecuada. Menopausia, síndrome de ovario poliquístico, embarazo, fertilidad y endometriosis.",
     "benefits": [
-      "Plan nutricional para síndrome de ovario poliquístico (SOP)",
-      "Alimentación en menopausia y premenopausia",
-      "Nutrición para mejorar fertilidad",
-      "Seguimiento nutricional durante embarazo",
-      "Manejo de síntomas: sofocos, resistencia insulina, inflamación"
+      "Alimentación específica para síndrome de ovario poliquístico (SOP)",
+      "Nutrición en menopausia y premenopausia",
+      "Pautas para mejorar la fertilidad de forma natural",
+      "Acompañamiento nutricional durante el embarazo",
+      "Control de síntomas: sofocos, resistencia a insulina, inflamación"
     ],
     "forWho": [
-      "Mujeres con síndrome de ovario poliquístico (SOP)",
+      "Mujeres con SOP diagnosticado o sospecha",
       "Menopausia y premenopausia",
-      "Búsqueda de embarazo o embarazo actual",
+      "Planificación de embarazo o embarazo en curso",
       "Endometriosis diagnosticada",
-      "Irregularidades menstruales"
+      "Desajustes menstruales"
     ],
-    "metaTitle": "Salud hormonal femenina | Nutricionista Leganés",
-    "metaDescription": "Nutrición para SOP, menopausia, fertilidad, embarazo. Nutricionista especializada en salud hormonal en Leganés. Reserva cita."
+    "metaTitle": "Salud hormonal femenina | Nutricionista Alcorcón",
+    "metaDescription": "Nutrición para SOP, menopausia, fertilidad, embarazo. Nutricionista especializada en salud hormonal en Alcorcón. Reserva cita."
   },
   {
     "id": "nutricion-clinica",
@@ -98,22 +98,22 @@
     "title": "Nutrición clínica",
     "emoji": "🩺",
     "shortDesc": "Diabetes, colesterol, hipertensión, tiroides, hígado graso",
-    "description": "Mejora tu salud con nutrición terapéutica personalizada. Diabetes, colesterol alto, hipertensión, hipotiroidismo, hígado graso y más patologías.",
+    "description": "Mejora tus marcadores de salud con nutrición terapéutica individualizada. Diabetes, colesterol elevado, hipertensión, hipotiroidismo, hígado graso y más.",
     "benefits": [
-      "Plan nutricional adaptado a tu patología",
-      "Control de diabetes tipo 2 y resistencia a la insulina",
-      "Reducción de colesterol y triglicéridos",
-      "Alimentación para hipertensión arterial",
-      "Manejo de hipotiroidismo e hígado graso"
+      "Programa nutricional ajustado a tu patología",
+      "Manejo de diabetes tipo 2 y resistencia a la insulina",
+      "Reducción de colesterol y triglicéridos mediante alimentación",
+      "Pautas dietéticas para hipertensión arterial",
+      "Abordaje de hipotiroidismo e hígado graso"
     ],
     "forWho": [
       "Personas con diabetes tipo 2 o prediabetes",
-      "Colesterol o triglicéridos elevados",
+      "Colesterol o triglicéridos por encima de rango",
       "Hipertensión arterial",
       "Hipotiroidismo o hipertiroidismo",
       "Hígado graso (esteatosis hepática)"
     ],
-    "metaTitle": "Nutrición clínica | Diabetes, colesterol | Nutricionista Leganés",
-    "metaDescription": "Tratamiento nutricional para diabetes, colesterol, hipertensión, tiroides. Nutricionista clínica en Leganés. Reserva."
+    "metaTitle": "Nutrición clínica | Diabetes, colesterol | Nutricionista Alcorcón",
+    "metaDescription": "Nutrición terapéutica para diabetes, colesterol, hipertensión, tiroides. Nutricionista clínica en Alcorcón. Reserva."
   }
 ]
