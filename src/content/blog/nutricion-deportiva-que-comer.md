@@ -1,121 +1,192 @@
 ---
-title: "Qué comer antes y después de entrenar: estrategias nutricionales para deportistas"
-description: "Optimiza tu rendimiento deportivo con una alimentación bien planificada. Tus nutricionistas deportivas en Alcorcón comparten las claves sobre nutrición perientrenamiento."
+title: "Cómo alimentarte según tu deporte: pádel, running y gimnasio en Fuenlabrada"
+description: "Guía de nutrición deportiva adaptada a los deportes más practicados en Fuenlabrada. Descubre qué comer para rendir más y recuperarte mejor."
 date: "2025-11-05"
-tags: ["Nutrición deportiva", "Alcorcón"]
+tags: ["Nutrición deportiva", "Fuenlabrada"]
 ---
 
-Si existe una cuestión que surge una y otra vez en nuestras consultas de nutrición deportiva en Alcorcón, es la siguiente: **"¿Qué debería comer alrededor de mis sesiones de entrenamiento?"** La respuesta honesta es que depende. Depende de tu disciplina deportiva, de la intensidad del esfuerzo, de los objetivos que persigas y de las características individuales de tu organismo.
+Fuenlabrada es una ciudad que se mueve. Desde las pistas de pádel del polideportivo hasta los circuitos de running que atraviesan el Parque de la Paz de Loranca, pasando por los gimnasios repartidos por todos los barrios, la práctica deportiva forma parte del día a día de miles de vecinos. Sin embargo, la mayoría entrena sin haber pensado nunca en **cómo debería comer para sacar partido a ese esfuerzo**.
 
-Lo que la investigación científica ha establecido con solidez es que la alimentación perientrenamiento tiene un impacto directo sobre el rendimiento, la recuperación y los resultados que obtienes. Entrenar sin una planificación nutricional coherente es como emprender un viaje sin comprobar el combustible: quizá avances un trecho, pero difícilmente llegarás a tu destino.
+En esta guía, nuestro equipo de nutricionistas deportivos en Fuenlabrada desglosa las claves nutricionales adaptadas a las tres actividades más populares de la zona.
 
-## Qué comer antes del ejercicio
+## La base común: principios que todo deportista debe conocer
 
-El objetivo de la ingesta previa es sencillo: **asegurar que tu cuerpo cuente con la energía suficiente** para mantener un rendimiento óptimo y evitar bajones durante la sesión.
+Antes de entrar en las particularidades de cada disciplina, hay fundamentos nutricionales que se aplican sin importar qué deporte practiques.
 
-### Cuándo comer según la proximidad al ejercicio
+### Energía disponible: ni demasiada ni demasiado poca
 
-- **De 2 a 3 horas antes**: dispones de tiempo para una comida completa que combine proteínas, hidratos de carbono complejos y una cantidad controlada de grasas
-- **Alrededor de 1 hora antes**: mejor optar por algo ligero, fácil de digerir y con predominio de carbohidratos
-- **Menos de 30 minutos antes**: solo algo muy ligero si notas hambre, como una pieza de fruta madura
+Tu cuerpo necesita combustible para entrenar, recuperarse y funcionar. Un déficit energético crónico, especialmente habitual en personas que combinan ejercicio con dietas restrictivas para [perder peso](/perdida-de-peso), tiene consecuencias serias:
 
-> La clave está en llegar al entrenamiento con energía disponible pero sin sensación de pesadez. Si entrenas a primera hora de la mañana y no toleras bien comer antes, las sesiones suaves pueden realizarse en ayunas. No obstante, para entrenamientos de alta intensidad es recomendable ingerir al menos algo ligero.
+- **Caída del rendimiento** y sensación de fatiga constante
+- **Pérdida de masa muscular** en lugar de grasa
+- **Mayor riesgo de lesiones** por debilidad ósea y muscular
+- **Alteraciones hormonales** que afectan al ciclo menstrual en mujeres y a la testosterona en hombres
 
-### Ideas de comidas previas al ejercicio
+Un plan de nutrición deportiva bien diseñado garantiza que tu cuerpo tenga la energía que necesita para entrenar y para vivir, sin excedentes innecesarios.
 
-**Comida completa (2-3 horas antes):**
-- Arroz integral con pollo a la plancha y verduras salteadas
-- Pasta con salsa de tomate natural y gambas
-- Tostadas integrales con huevos revueltos y aguacate
+### Proteínas: el material de construcción
 
-**Snack ligero (aproximadamente 1 hora antes):**
-- Un plátano con un pequeño puñado de almendras
-- Yogur natural con avena y frutos rojos
-- Pan integral con pavo y tomate
+Las proteínas son imprescindibles para la reparación y el crecimiento del tejido muscular. Las necesidades varían según la actividad:
 
-**Justo antes de la sesión (30 minutos):**
-- Una fruta madura como plátano o mango
-- Un par de dátiles medjool
-- Una barrita casera de avena y fruta deshidratada
+| Perfil deportivo | Proteína recomendada |
+|---|---|
+| Persona activa (3-4 sesiones/semana) | 1,2-1,4 g por kg de peso |
+| Deportista de resistencia | 1,4-1,6 g por kg de peso |
+| Deportista de fuerza o hipertrofia | 1,6-2,2 g por kg de peso |
 
-## No subestimes la hidratación
+**La distribución importa tanto como la cantidad total.** Repartir la ingesta proteica en 4-5 tomas a lo largo del día (incluyendo una dosis de 0,3-0,5 g/kg tras el entrenamiento) maximiza la síntesis muscular.
 
-Es habitual obsesionarse con los alimentos y pasar por alto lo más elemental: **el estado de hidratación**. Basta con una pérdida de líquidos equivalente al 2% del peso corporal para que el rendimiento se resienta de forma perceptible.
+### Hidratación: lo que la mayoría subestima
 
-### Pautas de hidratación orientativas
+Una deshidratación del 2% del peso corporal reduce el rendimiento entre un 10% y un 20%. Eso equivale a perder solo 1,4 litros de sudor en una persona de 70 kg.
 
-- **Antes de entrenar**: consume entre 400 y 600 ml de agua en las 2 horas previas al ejercicio
-- **Durante la sesión**: bebe entre 150 y 250 ml cada 15-20 minutos, especialmente si la actividad supera los 45 minutos
-- **Después del ejercicio**: repón el líquido perdido. Una referencia útil es ingerir 1,5 litros por cada kilo de peso que hayas perdido durante la actividad
+**Protocolo básico de hidratación:**
+- Beber 400-600 ml de agua en las 2 horas previas al ejercicio
+- Durante la actividad: 150-250 ml cada 15-20 minutos
+- Después: reponer 1,5 litros por cada kg de peso perdido durante la sesión
 
-**¿Necesitas bebidas isotónicas?** Generalmente solo en sesiones que excedan los 60-90 minutos a intensidad considerable o cuando las condiciones de temperatura son elevadas. Para entrenamientos de menor duración, el agua es más que suficiente. Para más información, revisa nuestro artículo sobre [suplementos deportivos](/blog/suplementos-deportivos).
+Las bebidas isotónicas solo son necesarias en esfuerzos que superen los 60-90 minutos a intensidad considerable. Para todo lo demás, agua.
 
-## Alimentación después del entrenamiento
+## Nutrición para jugadores de pádel
 
-Lo que ingieres tras el esfuerzo es tan determinante como la propia sesión. Después de entrenar, tu cuerpo necesita cubrir dos prioridades:
+El pádel es el deporte que más ha crecido en Fuenlabrada en los últimos años. Sus demandas son particulares: combina **esfuerzos explosivos con recuperaciones incompletas**, exige agilidad, coordinación y capacidad de mantener la concentración durante sets que pueden alargarse considerablemente.
 
-1. **Reponer las reservas de glucógeno muscular** agotadas durante el ejercicio
-2. **Reparar las fibras musculares** sometidas a estrés mecánico
+### Demandas energéticas del pádel
 
-### La ventana de recuperación
+Un partido de pádel competitivo de 90 minutos consume entre **600 y 900 kcal**, dependiendo del nivel de juego y la intensidad. A diferencia de un deporte continuo como el running, el pádel alterna periodos de alta intensidad (arrancadas, golpes potentes, movimientos laterales) con pausas entre puntos.
 
-La idea de que existe una "ventana anabólica" de apenas 30 minutos ha sido matizada por la investigación reciente. Sin embargo, **alimentarte dentro de las 2 horas posteriores al ejercicio sigue siendo recomendable**, sobre todo si el entrenamiento ha sido intenso o si tienes otra sesión programada en las siguientes 24 horas.
+Esto significa que tu cuerpo utiliza principalmente dos sistemas energéticos:
+- **Glucógeno muscular** para los esfuerzos explosivos
+- **Ácidos grasos** durante los periodos de menor intensidad
 
-### La combinación respaldada por la evidencia: proteína + carbohidratos
+### Qué comer en día de partido
 
-Los estudios confirman que la combinación de proteínas y carbohidratos en la ingesta posterior al ejercicio es la estrategia más eficaz para optimizar la recuperación.
+**Comida principal (3 horas antes del partido):**
+- Arroz basmati con pechuga de pollo al limón y calabacín salteado
+- Pasta integral con atún al natural, tomate cherry y rúcula
+- Boniato asado con huevo a la plancha y ensalada verde
 
-- **Proteínas (0,3-0,5 g por kg de peso corporal)**: promueven la reparación y síntesis de tejido muscular
-- **Carbohidratos (0,8-1,2 g por kg de peso corporal)**: facilitan la reposición de los depósitos de glucógeno
+**Snack pre-partido (60-90 minutos antes):**
+- Plátano con dos o tres nueces
+- Tostada de pan integral con pavo y un hilo de aceite de oliva
+- Yogur natural con un puñado de avena y arándanos
 
-### Ideas de comidas para después de entrenar
+**Durante el partido (en cambios de lado):**
+- Sorbos de agua regularmente
+- Si el partido se alarga más de 90 minutos: un par de dátiles o una barrita de fruta deshidratada
+- En condiciones de calor: una bebida con sales minerales
 
-- Pechuga de pollo con boniato al horno y verduras al vapor
-- Tortilla de claras y espinacas con pan integral tostado
-- Bowl de arroz con salmón, edamame y verduras variadas
-- Yogur griego con plátano, avena y un puñado de nueces
-- Batido casero con proteína de suero, leche, fruta y mantequilla de cacahuete
+**Después del partido:**
+- Prioriza la combinación de proteína y carbohidratos en las 2 horas siguientes
+- Ejemplo: bowl de arroz con salmón y verduras, o un batido casero con leche, plátano y avena
 
-## Errores habituales en la nutrición deportiva
+> La concentración mental en pádel es tan importante como la condición física. Una bajada de glucosa a mitad de set puede costarte tantos puntos como un problema técnico.
 
-A lo largo de nuestra experiencia en el servicio de [nutrición deportiva](/nutricion-deportiva), hemos identificado una serie de fallos que se repiten con frecuencia:
+## Nutrición para corredores en Fuenlabrada
 
-- **Entrenar sistemáticamente sin haber ingerido nada**: funciona para sesiones ligeras, pero compromete seriamente el rendimiento en entrenamientos de alta exigencia
-- **Descuidar la comida posterior al ejercicio**: sin el aporte de nutrientes adecuado, la recuperación se ralentiza y puedes comprometer tu masa muscular
-- **Comer de forma excesiva justo antes de la actividad**: una comida copiosa antes de entrenar puede provocar molestias digestivas y limitar tu capacidad
-- **Confiar en suplementos sin tener la base alimentaria cubierta**: como explicamos en nuestro artículo sobre [suplementos deportivos](/blog/suplementos-deportivos), ningún producto reemplaza una dieta bien estructurada
-- **Utilizar la misma estrategia para disciplinas distintas**: las necesidades nutricionales de un corredor de larga distancia son muy diferentes a las de alguien que entrena fuerza con pesas
+Fuenlabrada ofrece circuitos de running extraordinarios. El Parque de la Paz de Loranca, con sus caminos arbolados, y las rutas que conectan con el Parque de la Fuente son terrenos perfectos para entrenar. Pero salir a correr sin una estrategia nutricional es **limitar tu progresión sin saberlo**.
 
-## Recomendaciones según el tipo de actividad
+### Las necesidades específicas del runner
 
-### Entrenamiento de fuerza
+El running es un deporte de resistencia aeróbica donde el **glucógeno muscular y hepático** son el combustible principal en intensidades moderadas y altas. Cuando estos depósitos se agotan, aparece el temido "muro": esa sensación de que las piernas pesan como plomo y el cuerpo se niega a continuar.
 
-- Prioriza la proteína en la comida posterior al entrenamiento
-- No infravalores el papel de los carbohidratos: también son imprescindibles para la recuperación muscular
-- Distribuye la ingesta proteica a lo largo del día en 4-5 tomas
+**Claves nutricionales para corredores:**
 
-### Deportes de resistencia (running, ciclismo, natación)
+- **Carbohidratos como base del plan**: deberían representar entre el 50% y el 65% de la ingesta calórica total, ajustando según volumen de entrenamiento
+- **Periodización de hidratos**: más cantidad en días de tiradas largas o sesiones intensas, menos en días de descanso o sesiones suaves
+- **Hierro bajo vigilancia**: los corredores, especialmente las mujeres, tienen mayor riesgo de ferropenia por la hemólisis mecánica (destrucción de glóbulos rojos por el impacto del pie) y las pérdidas por sudor
 
-- Los carbohidratos son tu principal combustible: asegúrate de que ocupen un lugar destacado en tu dieta
-- En esfuerzos superiores a los 90 minutos, planifica la ingesta de carbohidratos durante la actividad
-- Consulta nuestra guía de [alimentación para runners](/blog/alimentacion-runners-leganes) para pautas más específicas
+### Plan de alimentación para un día de entrenamiento largo
 
-### Deportes de equipo (fútbol, pádel, baloncesto)
+**Desayuno (2 horas antes de salir a correr):**
+- Porridge de avena con plátano, canela y un chorrito de miel
+- Tostada de pan integral con aceite de oliva y jamón serrano magro
 
-- Demandan una combinación de resistencia aeróbica y potencia explosiva
-- La hidratación adquiere especial importancia en deportes con pausas irregulares
-- Adapta tu alimentación en función de si es día de competición o de entrenamiento regular
+**Durante la carrera (si supera los 60-75 minutos):**
+- Gel de carbohidratos o un puñado de gominolas deportivas cada 45 minutos
+- Agua o bebida isotónica a intervalos regulares
 
-## Personaliza tu estrategia nutricional
+**Comida post-entrenamiento:**
+- Lentejas con arroz y verduras (la combinación perfecta de proteína vegetal y carbohidratos complejos)
+- Pechuga de pollo con patata al horno y pimientos asados
+- Pasta integral con gambas, ajo y espinacas
 
-Estas orientaciones constituyen un marco de referencia, pero **cada deportista es único**. Tu plan nutricional debe tener en cuenta tu composición corporal, el volumen y tipo de entrenamiento que realizas, tus horarios laborales y personales, y tus metas concretas.
+**Merienda de recuperación:**
+- Yogur griego con frutos rojos y granola casera
+- Batido con leche, fruta de temporada y mantequilla de cacahuete
 
-En nuestra consulta de [nutrición deportiva](/nutricion-deportiva) en Alcorcón, diseñamos planes alimentarios individualizados que se adaptan a tu disciplina, tu calendario de competiciones y las exigencias de tu rutina diaria. Si quieres dejar de improvisar y empezar a alimentarte con un propósito claro, estaremos encantadas de acompañarte en el proceso.
+### Errores frecuentes en corredores
+
+- **Correr siempre en ayunas** pensando que así "quemas más grasa": puede funcionar en sesiones suaves y cortas, pero compromete el rendimiento en sesiones exigentes y favorece la pérdida de masa muscular
+- **Ignorar la reposición de sodio**: en tiradas largas con calor, la pérdida de sales por el sudor puede provocar calambres, fatiga y mareos
+- **No periodizar la alimentación**: comer lo mismo el día de descanso que el día de una tirada de 15 km es un error que afecta tanto al rendimiento como a la composición corporal
+
+## Nutrición para entrenamiento en gimnasio
+
+Ya sea que busques ganar masa muscular, perder grasa corporal o mejorar tu condición física general, el entrenamiento con pesas requiere una estrategia nutricional que muchas personas en Fuenlabrada descuidan.
+
+### Hipertrofia: cuando el objetivo es ganar músculo
+
+Ganar masa muscular exige un **superávit calórico controlado** combinado con suficiente proteína y un estímulo de entrenamiento adecuado. El error más común es comer en exceso pensando que todo el sobrante se convertirá en músculo.
+
+**Pautas fundamentales:**
+- Superávit calórico de **250-500 kcal diarias** sobre el gasto total (más no es más)
+- Proteína distribuida en 4-5 tomas de **0,3-0,5 g/kg** cada una
+- Carbohidratos suficientes para sostener el entrenamiento y la recuperación
+- Grasas saludables que no bajen del 20-25% del total calórico
+
+**Ejemplo de comida post-gimnasio para hipertrofia:**
+- Arroz con ternera magra salteada, brócoli al vapor y un chorrito de aceite de oliva
+- Tortilla de 3 huevos con espinacas, acompañada de boniato asado y ensalada
+- Bowl de quinoa con salmón, edamame, aguacate y salsa de soja
+
+### Definición: cuando el objetivo es perder grasa
+
+Reducir grasa manteniendo la masa muscular requiere un enfoque más preciso:
+
+- **Déficit calórico moderado** (300-500 kcal bajo el gasto): déficits agresivos aceleran la pérdida muscular
+- **Proteína alta** (1,8-2,2 g/kg): el nutriente más importante en fase de definición para preservar músculo
+- **Entrenamiento de fuerza mantenido**: no reduzcas cargas ni elimines ejercicios compuestos
+- **Cardio como complemento, no como base**: 2-3 sesiones semanales moderadas son suficientes
+
+> Uno de los errores más frecuentes en los gimnasios de Fuenlabrada es confiar en suplementos sin tener la alimentación base cubierta. Como explicamos en nuestro artículo sobre [suplementos deportivos](/blog/suplementos-deportivos), ningún producto reemplaza una dieta bien estructurada.
+
+### Timing nutricional para sesiones de gimnasio
+
+**Pre-entreno (60-90 minutos antes):**
+
+La comida debe aportar energía sin generar molestias digestivas:
+- Tortitas de avena con plátano y un toque de canela
+- Tostada integral con crema de cacahuete y plátano
+- Arroz blanco con pollo desmenuzado (fácil de digerir)
+
+**Post-entreno (en las 2 horas siguientes):**
+
+Prioridad absoluta: proteína de calidad y carbohidratos para reponer glucógeno:
+- Batido de proteína de suero con leche y un plátano
+- Pechuga de pavo con arroz y verduras
+- Yogur griego con avena, frutos secos y miel
+
+## Suplementación deportiva: lo esencial
+
+El mundo de los suplementos genera mucha confusión. Solo unos pocos tienen respaldo científico sólido:
+
+- **Creatina monohidrato**: el suplemento de rendimiento con mayor evidencia. Efectivo para deportes de fuerza y potencia. Dosis: 3-5 g diarios
+- **Proteína de suero (whey)**: útil como herramienta práctica cuando no puedes cubrir tus necesidades proteicas con comida real. No es imprescindible si tu dieta está bien planificada
+- **Cafeína**: mejora el rendimiento en dosis de 3-6 mg/kg, tomada 30-60 minutos antes del ejercicio
+
+Todo lo demás — quemadores de grasa, BCAAs, pre-entrenos llenos de ingredientes exóticos — tiene una evidencia mucho más limitada o directamente nula. Para una revisión más detallada, consulta nuestro artículo sobre [suplementos deportivos](/blog/suplementos-deportivos).
+
+## Tu plan nutricional deportivo, a medida
+
+Estas orientaciones son un punto de partida, pero **cada deportista necesita un plan personalizado**. Tu composición corporal, tus horarios de entrenamiento y trabajo, tu disciplina deportiva, tu calendario de competiciones y tus objetivos concretos determinan qué, cuánto y cuándo deberías comer.
+
+En nuestro servicio de [nutrición deportiva](/nutricion-deportiva) en Fuenlabrada diseñamos planes alimentarios individualizados que evolucionan contigo. Si quieres dejar de improvisar con la alimentación y empezar a notar la diferencia en tu rendimiento, estamos aquí para acompañarte.
 
 ---
 
 ## Artículos relacionados
 
 - [Suplementos deportivos: cuáles funcionan y cuáles son un desperdicio](/blog/suplementos-deportivos)
-- [Alimentación para runners: cómo mejorar tu rendimiento en Alcorcón](/blog/alimentacion-runners-leganes)
+- [Alimentación para runners: cómo mejorar tu rendimiento en Fuenlabrada](/blog/alimentacion-runners-fuenlabrada)
 - [Meal prep semanal: organiza tus comidas y mejora tu alimentación](/blog/meal-prep-semanal)

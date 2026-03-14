@@ -1,100 +1,100 @@
 [
   {
-    "id": "alcorcon-centro",
-    "slug": "nutricionista-alcorcon-centro",
-    "name": "Alcorcón Centro",
-    "description": "Nutricionista en el centro de Alcorcón, junto a la Plaza del Ayuntamiento, el Teatro Buero Vallejo y la zona comercial peatonal.",
+    "id": "fuenlabrada-centro",
+    "slug": "nutricionista-fuenlabrada-centro",
+    "name": "Fuenlabrada Centro",
+    "description": "Nutricionista en el centro de Fuenlabrada, junto a la Plaza de la Constitución, el Ayuntamiento y la zona comercial peatonal del casco antiguo.",
     "landmarks": [
-      "Plaza del Ayuntamiento",
-      "Teatro Buero Vallejo",
-      "Mercado Municipal de Alcorcón",
-      "Iglesia de Santa María la Blanca"
+      "Plaza de la Constitución",
+      "Ayuntamiento de Fuenlabrada",
+      "Iglesia de San Esteban Protomártir",
+      "Mercado Municipal de Fuenlabrada"
     ],
-    "metaTitle": "Nutricionista en Alcorcón Centro — nutricionista.io",
-    "metaDescription": "Nutricionista en Alcorcón Centro, junto al Ayuntamiento y el Teatro Buero Vallejo. Consulta presencial y online. Reserva tu cita."
+    "metaTitle": "Nutricionista en Fuenlabrada Centro — nutricionista.io",
+    "metaDescription": "Nutricionista en Fuenlabrada Centro, junto al Ayuntamiento y la Plaza de la Constitución. Consulta presencial y online. Reserva tu cita."
   },
   {
-    "id": "san-jose-de-valderas",
-    "slug": "nutricionista-san-jose-valderas-alcorcon",
-    "name": "San José de Valderas",
-    "description": "Nutricionista en San José de Valderas, barrio residencial con excelente conexión por Cercanías y acceso rápido a la A-5.",
+    "id": "el-naranjo",
+    "slug": "nutricionista-el-naranjo-fuenlabrada",
+    "name": "El Naranjo",
+    "description": "Nutricionista cerca de El Naranjo, barrio residencial de Fuenlabrada con buena conexión por Cercanías y acceso directo al centro del municipio.",
     "landmarks": [
-      "Estación de Cercanías San José de Valderas",
-      "Parque de los Castillos",
-      "Centro Comercial Tres Aguas (cercano)",
-      "Polideportivo San José de Valderas"
+      "Estación de Cercanías Fuenlabrada",
+      "Parque del Naranjo",
+      "Centro Comercial Loranca Boulevard (cercano)",
+      "Polideportivo Fernando Martín"
     ],
-    "metaTitle": "Nutricionista en San José de Valderas Alcorcón — nutricionista.io",
-    "metaDescription": "Nutricionista en San José de Valderas (Alcorcón), junto a Cercanías y Parque de los Castillos. Primera consulta 50€. Reserva cita."
+    "metaTitle": "Nutricionista en El Naranjo Fuenlabrada — nutricionista.io",
+    "metaDescription": "Nutricionista en El Naranjo (Fuenlabrada), junto a Cercanías y Parque del Naranjo. Primera consulta 50€. Reserva cita."
   },
   {
-    "id": "parque-lisboa",
-    "slug": "nutricionista-parque-lisboa-alcorcon",
-    "name": "Parque Lisboa",
-    "description": "Nutricionista en Parque Lisboa, una de las zonas más consolidadas de Alcorcón con amplios espacios verdes y buena conexión de transporte.",
+    "id": "loranca",
+    "slug": "nutricionista-loranca-fuenlabrada",
+    "name": "Loranca",
+    "description": "Nutricionista cerca de Loranca, zona residencial moderna de Fuenlabrada con amplios espacios verdes, centros educativos y excelente comunicación por Metro Sur.",
     "landmarks": [
-      "Parque de Lisboa",
-      "Centro de Especialidades de Alcorcón",
-      "Colegios e institutos del barrio",
-      "Acceso Metro Ligero ML1"
+      "Metro Loranca (Línea 12)",
+      "Parque de la Paz de Loranca",
+      "Centro Comercial Loranca Boulevard",
+      "Colegios e institutos de la zona"
     ],
-    "metaTitle": "Nutricionista en Parque Lisboa Alcorcón — nutricionista.io",
-    "metaDescription": "Nutricionista en Parque Lisboa (Alcorcón), con acceso rápido por Metro Ligero. Consulta presencial y online. Reserva tu cita."
+    "metaTitle": "Nutricionista en Loranca Fuenlabrada — nutricionista.io",
+    "metaDescription": "Nutricionista en Loranca (Fuenlabrada), con acceso por Metro Sur L12. Consulta presencial y online. Reserva tu cita."
   },
   {
-    "id": "campodon",
-    "slug": "nutricionista-campodon-alcorcon",
-    "name": "Campodón",
-    "description": "Nutricionista en Campodón, barrio familiar de Alcorcón con zonas deportivas, colegios y fácil acceso al centro del municipio.",
+    "id": "la-serna",
+    "slug": "nutricionista-la-serna-fuenlabrada",
+    "name": "La Serna",
+    "description": "Nutricionista cerca de La Serna, barrio familiar de Fuenlabrada con zonas deportivas, parques y fácil acceso al centro del municipio.",
     "landmarks": [
-      "Polideportivo Municipal de Campodón",
-      "Parque de Campodón",
-      "Centro Cultural Campodón",
+      "Polideportivo La Serna",
+      "Parque de La Serna",
+      "Centro Cultural Tomás y Valiente",
+      "Zona comercial de La Serna"
+    ],
+    "metaTitle": "Nutricionista en La Serna Fuenlabrada — nutricionista.io",
+    "metaDescription": "Nutricionista en La Serna (Fuenlabrada). Consulta presencial y online. Primera consulta 50€. Reserva."
+  },
+  {
+    "id": "vivero-hospital",
+    "slug": "nutricionista-vivero-hospital-fuenlabrada",
+    "name": "Vivero-Hospital-Universidad",
+    "description": "Nutricionista cerca de la zona del Hospital y la Universidad, área con excelente conexión por Metro Sur y Cercanías Renfe.",
+    "landmarks": [
+      "Hospital Universitario de Fuenlabrada",
+      "Universidad Rey Juan Carlos (Campus Fuenlabrada)",
+      "Metro Hospital de Fuenlabrada (L12)",
+      "Parque de El Vivero"
+    ],
+    "metaTitle": "Nutricionista en Vivero-Hospital Fuenlabrada — nutricionista.io",
+    "metaDescription": "Nutricionista en la zona del Hospital de Fuenlabrada, junto a la URJC y Metro Sur. Primera consulta 50€. Reserva cita."
+  },
+  {
+    "id": "el-arroyo",
+    "slug": "nutricionista-el-arroyo-fuenlabrada",
+    "name": "El Arroyo",
+    "description": "Nutricionista cerca de El Arroyo, barrio residencial del sur de Fuenlabrada con buena conexión de autobuses y cercanía al centro.",
+    "landmarks": [
+      "Parque de El Arroyo",
+      "Centro de Salud El Arroyo",
+      "Zona deportiva municipal sur",
       "Colegios del barrio"
     ],
-    "metaTitle": "Nutricionista en Campodón Alcorcón — nutricionista.io",
-    "metaDescription": "Nutricionista en Campodón (Alcorcón). Consulta presencial y online. Primera consulta 50€. Reserva."
+    "metaTitle": "Nutricionista en El Arroyo Fuenlabrada — nutricionista.io",
+    "metaDescription": "Nutricionista en El Arroyo (Fuenlabrada), cerca del centro. Consulta presencial y online. Reserva tu cita."
   },
   {
-    "id": "prado-santo-domingo",
-    "slug": "nutricionista-prado-santo-domingo-alcorcon",
-    "name": "Prado de Santo Domingo",
-    "description": "Nutricionista en Prado de Santo Domingo, zona céntrica de Alcorcón con la estación de Metro Puerta del Sur y el Centro Comercial Tres Aguas.",
+    "id": "parque-miraflores",
+    "slug": "nutricionista-parque-miraflores-fuenlabrada",
+    "name": "Parque Miraflores",
+    "description": "Nutricionista cerca de Parque Miraflores, zona residencial con amplias zonas verdes y excelente calidad de vida en Fuenlabrada.",
     "landmarks": [
-      "Metro Puerta del Sur (L10, ML1, ML2, ML3)",
-      "Centro Comercial Tres Aguas",
-      "Hospital Universitario Fundación Alcorcón",
-      "Parque de Prado de Santo Domingo"
+      "Parque de Miraflores",
+      "Centro Comercial Plaza de la Estación",
+      "Estación de Cercanías Fuenlabrada",
+      "Zona residencial moderna"
     ],
-    "metaTitle": "Nutricionista en Prado de Santo Domingo Alcorcón — nutricionista.io",
-    "metaDescription": "Nutricionista en Prado de Santo Domingo (Alcorcón), junto a Metro Puerta del Sur y C.C. Tres Aguas. Primera consulta 50€."
-  },
-  {
-    "id": "las-retamas",
-    "slug": "nutricionista-las-retamas-alcorcon",
-    "name": "Las Retamas",
-    "description": "Nutricionista en Las Retamas, barrio residencial del sur de Alcorcón con acceso directo al Metro Ligero y zonas verdes.",
-    "landmarks": [
-      "Metro Ligero Las Retamas",
-      "Universidad Rey Juan Carlos (Campus Alcorcón)",
-      "Parque Las Retamas",
-      "Zona deportiva municipal"
-    ],
-    "metaTitle": "Nutricionista en Las Retamas Alcorcón — nutricionista.io",
-    "metaDescription": "Nutricionista en Las Retamas (Alcorcón), junto a la URJC y Metro Ligero. Consulta presencial y online. Reserva tu cita."
-  },
-  {
-    "id": "parque-oeste",
-    "slug": "nutricionista-parque-oeste-alcorcon",
-    "name": "Parque Oeste",
-    "description": "Nutricionista en Parque Oeste, zona residencial de nueva construcción en Alcorcón con amplios jardines y excelentes comunicaciones.",
-    "landmarks": [
-      "Parque de la Paz",
-      "Zona residencial de nueva construcción",
-      "Acceso rápido a M-50 y A-5",
-      "Centros educativos del barrio"
-    ],
-    "metaTitle": "Nutricionista en Parque Oeste Alcorcón — nutricionista.io",
-    "metaDescription": "Nutricionista en Parque Oeste (Alcorcón), zona residencial moderna. Consulta presencial y online. Reserva tu cita."
+    "metaTitle": "Nutricionista en Parque Miraflores Fuenlabrada — nutricionista.io",
+    "metaDescription": "Nutricionista en Parque Miraflores (Fuenlabrada), zona residencial con acceso a Cercanías. Reserva tu cita."
   }
 ]

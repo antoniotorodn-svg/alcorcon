@@ -1,91 +1,140 @@
 ---
-title: "Intolerancias alimentarias: cómo identificarlas y abordarlas correctamente"
-description: "Conoce las claves para reconocer una intolerancia alimentaria, qué pruebas diagnósticas son válidas y cómo tu nutricionista en Alcorcón puede ayudarte a recuperar el bienestar digestivo."
+title: "Intolerancias alimentarias: guía completa para dejar de adivinar y empezar a saber"
+description: "Aprende a distinguir una intolerancia real de una sospecha infundada, qué pruebas tienen validez científica y cómo reorganizar tu dieta sin riesgos. Nutricionistas en Fuenlabrada."
 date: "2025-10-15"
 tags: ["Salud digestiva", "Nutrición clínica"]
 ---
 
-Son muchas las personas que conviven con molestias digestivas recurrentes sin saber que detrás podría haber una intolerancia alimentaria no diagnosticada. En nuestro centro de nutrición en Alcorcón observamos con frecuencia pacientes que han eliminado alimentos de su dieta por su cuenta, sin orientación profesional, agravando el problema en lugar de resolverlo.
+Hay pocas situaciones más frustrantes que comer algo y no saber si lo que sientes después —esos gases, esa hinchazón, ese malestar difuso— se debe a lo que has comido, a cómo lo has comido, al estrés del día o a algo completamente distinto. Las intolerancias alimentarias viven en esa zona gris donde los síntomas son reales pero las causas se resisten a ser identificadas con claridad.
 
-En esta guía repasamos los aspectos esenciales sobre las intolerancias: qué tipos existen, cómo distinguirlas de las alergias, cuáles son los métodos de diagnóstico con respaldo científico y por qué contar con una nutricionista es determinante para gestionar tu alimentación sin riesgos.
+Y precisamente porque el diagnóstico no es obvio, lo que ocurre con demasiada frecuencia es que las personas toman decisiones por su cuenta: eliminan alimentos basándose en sospechas, siguen los resultados de tests sin validez científica o copian las restricciones de alguien que conocen con síntomas parecidos. El resultado suele ser una dieta cada vez más limitada, carencias nutricionales que se acumulan en silencio y un problema que, lejos de resolverse, se cronifica.
 
-## Alergia e intolerancia: dos realidades muy distintas
+En nuestra consulta de Fuenlabrada ayudamos cada semana a personas que llevan meses —o años— en este laberinto. Y lo primero que hacemos siempre es lo mismo: distinguir lo que se sabe de lo que se supone.
 
-Mezclar estos conceptos es un error frecuente que puede tener consecuencias serias para la salud:
+## Lo primero: alergia e intolerancia no son lo mismo
 
-- **Alergia alimentaria:** Implica una respuesta del sistema inmune que puede manifestarse de forma inmediata y potencialmente grave, incluyendo urticaria, edema facial o anafilaxia. Su manejo requiere pruebas inmunológicas y, en ocasiones, portar medicación de emergencia.
-- **Intolerancia alimentaria:** Se origina por una incapacidad del organismo para digerir o metabolizar correctamente ciertos componentes de los alimentos. Sus manifestaciones son principalmente gastrointestinales, aparecen de forma gradual y, aunque no suelen ser peligrosas, deterioran significativamente el día a día.
+Esta confusión es más peligrosa de lo que parece, porque las implicaciones clínicas de cada una son radicalmente diferentes:
 
-> Un problema habitual es que muchas personas recurren a análisis de IgG comerciales sin validez científica reconocida. **No elimines alimentos de tu dieta sin antes obtener un diagnóstico contrastado por profesionales cualificados**.
+**La alergia alimentaria** es una respuesta del sistema inmunitario. Puede ser inmediata (minutos) o retardada (horas), pero en los casos graves implica reacciones potencialmente mortales como la anafilaxia. Se diagnostica con pruebas inmunológicas específicas (IgE, prick test) y su manejo exige la evitación completa del alérgeno, a menudo de por vida. Las alergias alimentarias más comunes son a la proteína de la leche de vaca, al huevo, al pescado, a los frutos secos, al marisco y a ciertos cereales.
 
-## Las intolerancias más comunes en la práctica clínica
+**La intolerancia alimentaria** no implica al sistema inmunitario (con la excepción de la celiaquía, que tiene características propias). Se produce porque el organismo carece de la capacidad enzimática o metabólica para procesar correctamente un componente determinado del alimento. Sus síntomas son principalmente digestivos, aparecen de forma gradual, dependen de la cantidad consumida y, aunque deterioran mucho la calidad de vida, rara vez suponen un riesgo vital.
 
-### Intolerancia a la lactosa por déficit de lactasa
+Esta distinción tiene una consecuencia práctica crucial: **en la mayoría de las intolerancias existe un umbral de tolerancia**. Es decir, puedes consumir cierta cantidad del alimento problemático sin que aparezcan síntomas. Encontrar ese umbral personal es uno de los objetivos principales del trabajo con un profesional.
 
-Aparece cuando el intestino no produce cantidades suficientes de la enzima lactasa, necesaria para procesar la lactosa presente en los productos lácteos. Provoca síntomas como meteorismo, dolor abdominal tipo cólico, flatulencia excesiva y episodios de diarrea tras la ingesta de leche o sus derivados. Se confirma mediante el **test de hidrógeno espirado** o a través de análisis genético.
+## Las cuatro intolerancias que vemos con más frecuencia
 
-**Algo que muchos desconocen:** La mayoría de personas con este déficit pueden consumir quesos curados, yogur natural e incluso cantidades moderadas de leche sin presentar síntomas. Retirar todos los lácteos innecesariamente puede poner en riesgo tu ingesta de calcio y vitamina D.
+### Déficit de lactasa: la más prevalente y la peor gestionada
 
-### Problemas con la absorción de fructosa
+La lactasa es la enzima encargada de descomponer la lactosa (el azúcar de la leche) en el intestino delgado. Cuando su producción es insuficiente, la lactosa llega intacta al colon y las bacterias la fermentan, generando gases, hinchazón, dolor abdominal y, en casos marcados, diarrea.
 
-La fructosa se encuentra de manera natural en las frutas, la miel y numerosos alimentos procesados. Cuando el mecanismo de transporte intestinal falla, la fructosa que no se absorbe llega al colon, donde fermenta produciendo gases, [distensión abdominal](/blog/hinchazon-abdominal-causas), malestar y cambios en el ritmo intestinal.
+Lo que mucha gente no sabe es que **el déficit de lactasa es un espectro, no un interruptor de encendido y apagado**. La mayoría de las personas con hipolactasia conservan una actividad residual de la enzima que les permite tolerar perfectamente:
 
-La solución no consiste en suprimir las frutas por completo, sino en determinar qué variedades y en qué cantidades puede tolerar cada persona, siempre con supervisión profesional.
+- Yogur natural (la fermentación bacteriana ya ha predigerido parte de la lactosa)
+- Quesos curados y semicurados (contienen cantidades mínimas de lactosa)
+- Mantequilla y nata en cantidades habituales de cocina
+- Pequeñas cantidades de leche distribuidas a lo largo del día, especialmente si se consumen con otros alimentos
 
-### Sensibilidad al gluten sin celiaquía
+El error más habitual es eliminar todos los lácteos de golpe, lo que puede comprometer la ingesta de calcio, vitamina D, proteínas de alta calidad y ciertas cepas probióticas. La confirmación diagnóstica se realiza mediante el **test de hidrógeno espirado** o mediante estudio genético.
 
-Existe un grupo de personas que experimentan molestias tanto digestivas como generales (fatiga persistente, dolor de cabeza, niebla mental) al ingerir gluten, pese a que las pruebas de celiaquía y alergia al trigo resultan negativas. Se trata de un diagnóstico por descarte que requiere haber excluido previamente la enfermedad celíaca mediante las analíticas correspondientes.
+### Malabsorción de fructosa: más allá de la fruta
 
-### Acumulación de histamina por déficit de DAO
+La fructosa es un monosacárido presente de forma natural en las frutas, la miel y ciertos vegetales, pero también se añade masivamente a productos procesados en forma de jarabe de maíz de alta fructosa. Cuando el transportador intestinal GLUT-5 no funciona eficientemente, la fructosa no absorbida fermenta en el colon provocando síntomas similares a los de la intolerancia a la lactosa.
 
-La enzima diaminooxidasa (DAO) es la responsable de descomponer la histamina que consumimos a través de la dieta. Cuando esta enzima funciona por debajo de lo normal, la histamina se acumula en el organismo y puede dar lugar a un abanico amplio de manifestaciones: desde cefaleas de repetición y erupciones en la piel hasta problemas gastrointestinales, congestión nasal o taquicardia.
+Un matiz importante: **la capacidad de absorción de fructosa depende en gran medida de la proporción fructosa/glucosa del alimento**. Los alimentos con un ratio equilibrado (plátano, kiwi, mandarina) suelen tolerarse mucho mejor que aquellos con exceso de fructosa libre (manzana, pera, mango, miel).
 
-Entre los alimentos con mayor concentración de histamina se encuentran los embutidos, los quesos madurados, las conservas de pescado, el vinagre y las bebidas alcohólicas fermentadas.
+Eliminar todas las frutas es innecesario y contraproducente. El trabajo consiste en identificar qué frutas y en qué cantidades puede tolerar cada persona, preservando el aporte de vitaminas, minerales y fibra que las frutas proporcionan.
 
-## Signos que deberían ponerte en alerta
+### Sensibilidad al gluten no celíaca: el diagnóstico que divide a los expertos
 
-Las manifestaciones de una intolerancia no siempre señalan de manera evidente al alimento causante. Los indicios más habituales incluyen:
+Existe un porcentaje de personas que experimenta síntomas digestivos y extradigestivos (fatiga, cefalea, niebla mental, dolor articular) al consumir gluten, pese a que las pruebas de enfermedad celíaca y alergia al trigo resultan negativas.
 
-- **En el plano digestivo:** flatulencia persistente, sensación de vientre abultado, espasmos intestinales, alternancia entre diarrea y estreñimiento, sensación nauseosa después de comer.
-- **Más allá del sistema digestivo:** agotamiento sin causa aparente, dolores de cabeza recurrentes, alteraciones cutáneas, molestias musculares o en las articulaciones, falta de concentración.
+Esta entidad, denominada sensibilidad al gluten no celíaca (SGNC), se diagnostica por exclusión: primero se descarta celiaquía (serología y, si procede, biopsia intestinal) y alergia al trigo, y luego se valora la respuesta clínica a una dieta sin gluten seguida de una provocación controlada.
 
-Una particularidad que complica mucho la autodetección es que estos síntomas pueden aparecer **horas o incluso días después** de haber consumido el alimento problemático.
+**El peligro real:** Muchas personas se autodiagnostican sensibilidad al gluten sin haberse realizado las pruebas de celiaquía previamente. Si se retira el gluten antes de hacer las analíticas, los marcadores pueden dar falsos negativos y la enfermedad celíaca —que tiene implicaciones serias a largo plazo— puede quedar sin diagnosticar.
 
-## Pasos para alcanzar un diagnóstico certero
+### Déficit de DAO: cuando la histamina se acumula
 
-Un proceso diagnóstico riguroso se estructura en varias etapas:
+La diaminooxidasa (DAO) es la enzima principal encargada de degradar la histamina que ingerimos con los alimentos. Cuando su actividad es insuficiente, la histamina se acumula y puede provocar un cuadro clínico muy variado y a menudo desconcertante:
 
-1. **Historia clínica detallada:** Revisión minuciosa de los síntomas, su periodicidad, los alimentos que generan sospecha y los antecedentes de salud del paciente.
-2. **Pruebas con respaldo científico:** Test de aire espirado para lactosa, fructosa o sorbitol; determinación de la actividad DAO en sangre; marcadores de celiaquía; estudios genéticos cuando resulte pertinente.
-3. **Fase de exclusión y reintroducción controlada:** Se eliminan temporalmente los alimentos bajo sospecha de forma supervisada y, posteriormente, se van reintroduciendo de manera progresiva para verificar o descartar la intolerancia.
+- Migrañas y cefaleas de repetición
+- Urticaria, enrojecimiento cutáneo, picor
+- Congestión nasal, estornudos
+- Dolor abdominal, diarrea, náuseas
+- Taquicardia, hipotensión
+- Dolor menstrual intenso
 
-> **Precaución:** Los test de intolerancias basados en inmunoglobulinas G comercializados en farmacias y establecimientos no especializados **no cuentan con aval científico**. No modifiques tu alimentación en función de esos resultados.
+La particularidad de esta intolerancia es que los **alimentos ricos en histamina no son intuitivos**: embutidos curados, quesos añejos, conservas de pescado (atún en lata, anchoas), vinagre, vino, cerveza, berenjena, espinacas, tomate y aguacate figuran entre los principales.
 
-## Nuestro método de trabajo con las intolerancias
+El diagnóstico se apoya en la determinación de la actividad DAO en sangre y en la correlación con el cuadro clínico. El tratamiento combina una fase de restricción de histamina con la búsqueda del umbral personal y, en algunos casos, la suplementación con DAO exógena antes de las comidas.
 
-Obtener un diagnóstico es solo el punto de partida. El auténtico desafío consiste en **reorganizar la dieta sin comprometer su calidad nutricional**, garantizando que se cubren todas las necesidades del organismo.
+## Las señales que deberían llevarte a consulta
 
-En nuestro servicio de [salud digestiva](/salud-digestiva), seguimos un protocolo estructurado:
+Los síntomas de una intolerancia alimentaria pueden ser sutiles y acumulativos. Estas son las señales que, si se mantienen en el tiempo, justifican una evaluación profesional:
 
-- **Eliminación temporal supervisada:** Retiramos los alimentos involucrados durante un periodo concreto hasta lograr que los síntomas remitan.
-- **Reintroducción progresiva:** Incorporamos los alimentos retirados en cantidades graduales para definir el umbral de tolerancia individual de cada paciente.
-- **Elaboración de un plan nutricional equilibrado:** Diseñamos una propuesta dietética que respete las tolerancias del paciente, asegure la cobertura de macro y micronutrientes, y se ajuste a sus gustos y estilo de vida.
-- **Seguimiento continuado:** Las intolerancias pueden evolucionar con el tiempo, por lo que las revisiones regulares son esenciales para ir adaptando las pautas.
+**Señales digestivas:**
+- Hinchazón abdominal que empeora a lo largo del día
+- Gases excesivos, especialmente tras determinadas comidas
+- Alternancia entre diarrea y estreñimiento sin un patrón claro
+- Dolor abdominal tipo cólico recurrente
+- Náuseas después de comer sin causa aparente
+- Sensación de digestión incompleta
 
-Una gestión inadecuada de una intolerancia puede provocar **carencias de calcio, hierro, fibra, vitaminas del grupo B** y otros nutrientes esenciales. Por eso es tan importante disponer de un profesional de la [nutrición clínica](/nutricion-clinica) que supervise el proceso de principio a fin.
+**Señales fuera del aparato digestivo:**
+- Fatiga crónica que no mejora con el descanso
+- Cefaleas frecuentes, especialmente si aparecen tras las comidas
+- Problemas de piel persistentes (eccema, urticaria, acné)
+- Niebla mental y dificultad para concentrarse
+- Dolores musculares o articulares sin causa traumática
 
-## Riesgos de restringir alimentos sin orientación profesional
+Un aspecto que complica enormemente la autoidentificación es que los síntomas pueden aparecer **entre 30 minutos y 72 horas después** de consumir el alimento problemático, lo que hace prácticamente imposible establecer la relación causa-efecto sin un registro sistemático.
 
-Eliminar grupos de alimentos por iniciativa propia conlleva peligros concretos:
+## Los tests que valen y los que no
 
-- **Déficits nutricionales silenciosos** que pueden tardar meses en dar la cara.
-- **Relación conflictiva con la comida**, generando miedo y conductas restrictivas.
-- **Encubrimiento de otras patologías** que precisan un abordaje médico específico.
-- **Empobrecimiento de la microbiota intestinal** al reducir la variedad dietética.
+Este es un punto donde la claridad es imprescindible, porque la desinformación tiene consecuencias directas sobre la salud y el bolsillo de las personas.
 
-Los protocolos de eliminación como la [dieta FODMAP](/blog/dieta-fodmap-guia) son herramientas clínicas de gran utilidad cuando se aplican con criterio y bajo supervisión. Sin embargo, utilizarlos sin la guía adecuada puede generar más complicaciones de las que pretenden resolver.
+**Tests con respaldo científico:**
+- Test de hidrógeno espirado (lactosa, fructosa, sorbitol, lactulosa para SIBO)
+- Determinación de actividad DAO en sangre
+- Serología de celiaquía (anticuerpos antitransglutaminasa, antiendomisio)
+- Estudio genético HLA DQ2/DQ8
+- Biopsia duodenal (gold standard para celiaquía)
+- Pruebas de provocación oral controlada
 
-Si llevas tiempo arrastrando molestias que no logras explicar, lo más sensato es obtener un diagnóstico profesional y, a partir de ahí, diseñar un plan alimentario que te devuelva la variedad, el disfrute y la tranquilidad a la hora de comer.
+**Tests SIN respaldo científico:**
+- Análisis de IgG frente a alimentos (los que se venden en farmacias, parafarmacias y ciertos laboratorios)
+- Kinesiología aplicada
+- Biorresonancia
+- Test del cabello para intolerancias
+- Iridología
+
+> Los tests de IgG alimentaria merecen una mención especial porque son los más comercializados y los más peligrosos en sus consecuencias. Miden una respuesta inmunitaria normal de contacto con los alimentos, no una intolerancia. Seguir sus resultados lleva a eliminar alimentos que se toleran perfectamente, empobreciendo la dieta sin ningún beneficio real.
+
+## Cómo trabajamos las intolerancias en nuestra consulta
+
+El abordaje que seguimos en nuestro servicio de [salud digestiva](/salud-digestiva) en Fuenlabrada se estructura en cuatro fases:
+
+**Fase 1 - Evaluación completa:** Historia clínica exhaustiva, revisión de analíticas previas, valoración de la dieta actual, análisis de hábitos y estilo de vida. Si faltan pruebas diagnósticas con validez, las solicitamos.
+
+**Fase 2 - Eliminación controlada:** Retiramos temporalmente los alimentos identificados como problemáticos, sustituyéndolos por alternativas que cubran los mismos nutrientes. Esta fase tiene una duración definida (nunca indefinida) y se monitoriza estrechamente.
+
+**Fase 3 - Reintroducción escalonada:** Reincorporamos los alimentos retirados en cantidades crecientes para determinar el umbral individual de tolerancia. Esta fase es la que convierte sospechas en certezas y la que permite recuperar la máxima variedad dietética posible.
+
+**Fase 4 - Plan alimentario definitivo y seguimiento:** Construimos un patrón alimentario personalizado que respeta tus tolerancias, cubre todas las necesidades nutricionales, se adapta a tu vida real y se revisa periódicamente, porque las intolerancias pueden evolucionar con el tiempo.
+
+Una gestión inadecuada de las intolerancias puede provocar **déficits acumulativos de calcio, hierro, fibra, vitaminas del grupo B, zinc y otros micronutrientes esenciales**. Por eso es tan importante que un profesional de la [nutrición clínica](/nutricion-clinica) supervise cada paso del proceso.
+
+## Lo que pierdes cuando restringes sin criterio
+
+Eliminar alimentos por tu cuenta, sin diagnóstico y sin supervisión, tiene consecuencias que van más allá de la nutrición:
+
+- **Carencias silenciosas** que pueden tardar meses en manifestarse como anemia, pérdida ósea o alteraciones inmunitarias
+- **Empobrecimiento de la microbiota intestinal** por falta de diversidad en la fibra dietética, lo que paradójicamente puede empeorar los síntomas digestivos
+- **Desarrollo de una relación problemática con la comida:** miedo a comer fuera, ansiedad ante la incertidumbre, aislamiento social
+- **Enmascaramiento de otras patologías** que requieren un diagnóstico y un tratamiento específico
+
+Los protocolos de eliminación como la [dieta FODMAP](/blog/dieta-fodmap-guia) son herramientas clínicas de enorme valor cuando se aplican con método y supervisión. Pero usarlos por libre, guiándose por listas de internet, puede crear más problemas de los que pretende resolver.
+
+**Si llevas tiempo conviviendo con síntomas que no consigues explicar, el camino no pasa por eliminar más alimentos, sino por obtener respuestas reales. Un diagnóstico riguroso y un plan profesional pueden devolverte la variedad, el disfrute y la tranquilidad a la hora de comer.**
 
 ---
 

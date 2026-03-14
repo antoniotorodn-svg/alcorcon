@@ -1,15 +1,17 @@
 ---
 interface Props {
-  type: 'paula' | 'arancha' | 'paula-parejas' | 'arancha-parejas';
+  type: 'adrian' | 'soraya' | 'cristina' | 'adrian-parejas' | 'soraya-parejas' | 'cristina-parejas';
 }
 
 const { type } = Astro.props;
 
 const urls: Record<string, string> = {
-  'paula': 'https://calendly.com/alcorcon/primera-consulta?hide_event_type_details=1&hide_gdpr_banner=1',
-  'arancha': 'https://calendly.com/aranchafontannutricion/primera-consulta?hide_event_type_details=1&hide_gdpr_banner=1',
-  'paula-parejas': 'https://calendly.com/alcorcon/primera-consulta-clon?hide_event_type_details=1&hide_gdpr_banner=1',
-  'arancha-parejas': 'https://calendly.com/aranchafontannutricion/primera-consulta-pareja?hide_event_type_details=1&hide_gdpr_banner=1',
+  'adrian': 'https://calendly.com/20nutricionistaio/primera-consulta?hide_event_type_details=1&hide_gdpr_banner=1',
+  'soraya': 'https://calendly.com/leganes/primera-consulta-fuenlabrada?hide_event_type_details=1&hide_gdpr_banner=1',
+  'cristina': 'https://calendly.com/fuenlabrada/primera-consulta?hide_event_type_details=1&hide_gdpr_banner=1',
+  'adrian-parejas': 'https://calendly.com/20nutricionistaio/primera-consulta-2-personas?hide_event_type_details=1&hide_gdpr_banner=1',
+  'soraya-parejas': 'https://calendly.com/leganes/primera-consulta-fuenlabrada-clon?hide_event_type_details=1&hide_gdpr_banner=1',
+  'cristina-parejas': 'https://calendly.com/fuenlabrada/primera-consulta-clon?hide_event_type_details=1&hide_gdpr_banner=1',
 };
 
 const calendlyUrl = urls[type];
